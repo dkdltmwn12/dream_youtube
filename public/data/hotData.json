@@ -1,0 +1,1761 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "INKgh23h1igwV6B1PAoK5eyhr50",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "mXqEcUgC31dM13LcwH4ktrAcvWY",
+      "id": "XIOoqJyx8E4",
+      "snippet": {
+        "publishedAt": "2023-04-03T09:00:00Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'Zero' Official MV",
+        "description": "Connect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_Zero #Year_of_NewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIOoqJyx8E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIOoqJyx8E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIOoqJyx8E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XIOoqJyx8E4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XIOoqJyx8E4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "tags": [
+          "NewJeans",
+          "뉴진스",
+          "민지",
+          "하니",
+          "다니엘",
+          "해린",
+          "혜인",
+          "뉴진스 민지",
+          "뉴진스 하니",
+          "뉴진스 다니엘",
+          "뉴진스 해린",
+          "뉴진스 혜인",
+          "MINJI",
+          "HANNI",
+          "HAERIN",
+          "HYEIN",
+          "NewJeans MINJI",
+          "NewJeans HANNI",
+          "NewJeans HAERIN",
+          "NewJeans HYEIN",
+          "DANIELLE",
+          "NewJeans DANIELLE"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NewJeans (뉴진스) 'Zero' Official MV",
+          "description": "Connect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_Zero #Year_of_NewJeans\n#ADOR #어도어"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r0fvRXVtR4gDUgu_fI3gAVdNeEA",
+      "id": "Noku6OCqyeo",
+      "snippet": {
+        "publishedAt": "2023-04-03T09:00:10Z",
+        "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+        "title": "[아이유의 팔레트🎨] 우리는 더 행복해질 거예요 (With 유인나) Ep.18-1",
+        "description": "[IU's Palette] We will be happier (With YOO IN NA) Ep.18-1\n[아이유의 팔레트] 우리는 더 행복해질 거예요 (With 유인나) Ep.18-1\n\n#아이유 #팔레트 #유인나",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Noku6OCqyeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Noku6OCqyeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Noku6OCqyeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Noku6OCqyeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Noku6OCqyeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이지금 [IU Official]",
+        "tags": [
+          "IU",
+          "아이유",
+          "이담",
+          "EDAM",
+          "이지금",
+          "dlwlrma",
+          "아이유tv",
+          "아티비",
+          "아이유티비",
+          "아이유의팔레트",
+          "팔레트",
+          "집콕시그널",
+          "집콕",
+          "Palette",
+          "이지은",
+          "나의아저씨",
+          "호텔델루나",
+          "장만월",
+          "셀러브리티",
+          "유인나",
+          "아이유인나",
+          "너",
+          "You",
+          "보라데보라",
+          "데보라"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[아이유의 팔레트🎨] 우리는 더 행복해질 거예요 (With 유인나) Ep.18-1",
+          "description": "[IU's Palette] We will be happier (With YOO IN NA) Ep.18-1\n[아이유의 팔레트] 우리는 더 행복해질 거예요 (With 유인나) Ep.18-1\n\n#아이유 #팔레트 #유인나"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i4Zl4hGFFhDMfgA2PRoPJ-PbSTQ",
+      "id": "HALG3Ty52mY",
+      "snippet": {
+        "publishedAt": "2023-04-03T12:00:11Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] Jimin(지민) 'Like Crazy' (4K)",
+        "description": "[BE ORIGINAL] Jimin 'Like Crazy' (Teaser)\n[비 오리지널] 지민 'Like Crazy' (티저)\n\n박지민 춤선 천재 만재 언제나 짜릿해💜\n(2:00) 케이팝의 신 안무 표현력 미치셨다\n\n#Jimin #지민 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HALG3Ty52mY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HALG3Ty52mY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HALG3Ty52mY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HALG3Ty52mY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HALG3Ty52mY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "tags": [
+          "M2",
+          "엠투",
+          "스튜디오 춤",
+          "스춤",
+          "Studio choom",
+          "COVERS",
+          "커버스",
+          "DANCE THE X",
+          "댄스 더 엑스",
+          "댄스",
+          "DANCE",
+          "비 오리지널",
+          "BE ORIGINAL",
+          "커버",
+          "COVER",
+          "Artist Of The Month",
+          "AOTM",
+          "Drop the dance",
+          "드롭더댄스",
+          "Mix & Max",
+          "믹스앤맥스",
+          "믹앤맥",
+          "bts",
+          "bts jimin",
+          "jimin",
+          "지민 솔로",
+          "지민",
+          "방탄소년단",
+          "방탄",
+          "방탄소년단 지민",
+          "방탄 지민",
+          "jimin solo",
+          "like crazy",
+          "jimin like crazy",
+          "jimin be original",
+          "be original jimin",
+          "jimin studio choom",
+          "studio choom jimin",
+          "bts jimin solo"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[BE ORIGINAL] Jimin(지민) 'Like Crazy' (4K)",
+          "description": "[BE ORIGINAL] Jimin 'Like Crazy' (Teaser)\n[비 오리지널] 지민 'Like Crazy' (티저)\n\n박지민 춤선 천재 만재 언제나 짜릿해💜\n(2:00) 케이팝의 신 안무 표현력 미치셨다\n\n#Jimin #지민 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nZJXjIg2dNAzHvREMcXlywYVKZs",
+      "id": "LsrJNUT0eTk",
+      "snippet": {
+        "publishedAt": "2023-04-02T09:10:21Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "🧳EP.1-1ㅣ살벌한 킬러 고객님들도 심장 뛰게 만드는 출장ㅣ🧳출장십오야2 X 길복순",
+        "description": "#유료광고포함 #전도연 #설경구 #김시아 #이솜 #이연 #길복순 #출장십오야2\n\n부르면, 달려 갑니다!\n영업재개 예능배달서비스 [출장십오야2]\n\n[일] 저녁 6시 유튜브 채널십오야에서\n\n출장 소식이 궁금하다면?\nhttps://bit.ly/2RpuQEt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsrJNUT0eTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsrJNUT0eTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsrJNUT0eTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LsrJNUT0eTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LsrJNUT0eTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채널 십오야",
+        "tags": [
+          "나영석",
+          "나PD",
+          "아간세",
+          "아이슬란드간세끼",
+          "이수근",
+          "수근세끼",
+          "은지원",
+          "지원세끼",
+          "삼시세끼",
+          "세끼",
+          "신효정",
+          "나피디",
+          "묘한이",
+          "tvN",
+          "라끼남",
+          "라면",
+          "라면끼리는남자",
+          "강호동",
+          "양정우",
+          "육봉선생",
+          "6봉선생",
+          "라면먹방",
+          "마포멋쟁이",
+          "마포",
+          "멋쟁이",
+          "송민호",
+          "표지훈",
+          "민호",
+          "지훈",
+          "피오",
+          "MINO",
+          "PO",
+          "P.O",
+          "위너",
+          "WINNER",
+          "송표",
+          "표송",
+          "패션",
+          "패션유튜버",
+          "패션유튜브",
+          "삼시네세끼",
+          "달나라공약이행프로젝트",
+          "달나라프로젝트",
+          "달나라",
+          "젝스키스",
+          "젝키",
+          "Sechs Kies",
+          "슬의",
+          "슬기로운하드털이",
+          "슬의생",
+          "신원호",
+          "조정석",
+          "유연석",
+          "장겨울",
+          "hospitalplaylist",
+          "이식당",
+          "나홀로이식당",
+          "나노",
+          "우주",
+          "김준",
+          "어깨춤",
+          "언제까지어깨춤을추게할거야",
+          "규현",
+          "조규현",
+          "조정뱅이",
+          "슈퍼주니어",
+          "superjunior",
+          "슈주",
+          "악마는정남이를입는다",
+          "악마정남",
+          "배정남",
+          "출장십오야",
+          "출장",
+          "슬기로운캠핑생활",
+          "캠핑생활",
+          "슬캠",
+          "내과박원장",
+          "이서진",
+          "BH",
+          "BTS",
+          "하이브",
+          "hybe",
+          "스타쉽",
+          "starship",
+          "txt",
+          "르세라핌",
+          "lesserafim",
+          "세븐틴",
+          "seventeen",
+          "지구오락실",
+          "지락실",
+          "토롱이"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🧳EP.1-1ㅣ살벌한 킬러 고객님들도 심장 뛰게 만드는 출장ㅣ🧳출장십오야2 X 길복순",
+          "description": "#유료광고포함 #전도연 #설경구 #김시아 #이솜 #이연 #길복순 #출장십오야2\n\n부르면, 달려 갑니다!\n영업재개 예능배달서비스 [출장십오야2]\n\n[일] 저녁 6시 유튜브 채널십오야에서\n\n출장 소식이 궁금하다면?\nhttps://bit.ly/2RpuQEt"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Irz5SEkW25SPH0Wa9pimhbkpu_c",
+      "id": "YudHcBIxlYw",
+      "snippet": {
+        "publishedAt": "2023-03-31T04:00:14Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JISOO - ‘꽃(FLOWER)’ M/V",
+        "description": "JISOO - ‘꽃(FLOWER)’ \n\nABC 도레미만큼 착했던 나\n그 눈빛이 싹 변했지 어쩌면 이 또한 나니까\n \n난 파란 나비처럼 날아가\n잡지 못한 건 다 네 몫이니까\n활짝 꽃피웠던 시간도 이제 모두\n내겐 lie lie lie\n \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n  \nYou and me, 미칠 듯이 뜨거웠지만\n처참하게 짓밟혀진 내 하나뿐인 라일락\n \n난 하얀 꽃잎처럼 날아가\n잡지 않은 것은 너니까\n살랑살랑 부는 바람에 이끌려\n봄은 오지만 우린 bye bye bye\n  \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n \n이젠 안녕 goodbye\n뒤는 절대 안 봐\n미련이란 이름의 잎새 하나\n봄비에 너에게서 떨어져\n꽃향기만 남아\n \n꽃향기만 남기고 갔단다\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/jisoo\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "tags": [
+          "YG Entertainment",
+          "YG",
+          "와이지",
+          "K-pop",
+          "BLACKPINK",
+          "블랙핑크",
+          "블핑",
+          "제니",
+          "로제",
+          "리사",
+          "지수",
+          "LISA",
+          "JISOO",
+          "JENNIE",
+          "ROSÉ",
+          "BLINK",
+          "블링크",
+          "지수 꽃",
+          "JISOO FLOWER",
+          "FLOWER",
+          "All Eyes On Me",
+          "JISOO All Eyes On Me",
+          "지수 All Eyes On Me",
+          "JISOO ME",
+          "ME",
+          "지수 FLOWER",
+          "JISOO 꽃"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JISOO - ‘꽃(FLOWER)’ M/V",
+          "description": "JISOO - ‘꽃(FLOWER)’ \n\nABC 도레미만큼 착했던 나\n그 눈빛이 싹 변했지 어쩌면 이 또한 나니까\n \n난 파란 나비처럼 날아가\n잡지 못한 건 다 네 몫이니까\n활짝 꽃피웠던 시간도 이제 모두\n내겐 lie lie lie\n \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n  \nYou and me, 미칠 듯이 뜨거웠지만\n처참하게 짓밟혀진 내 하나뿐인 라일락\n \n난 하얀 꽃잎처럼 날아가\n잡지 않은 것은 너니까\n살랑살랑 부는 바람에 이끌려\n봄은 오지만 우린 bye bye bye\n  \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n \n이젠 안녕 goodbye\n뒤는 절대 안 봐\n미련이란 이름의 잎새 하나\n봄비에 너에게서 떨어져\n꽃향기만 남아\n \n꽃향기만 남기고 갔단다\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/jisoo\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nliETHZ9w8tF9yirpqcomSXSO-Y",
+      "id": "_BtFHYvx0ck",
+      "snippet": {
+        "publishedAt": "2023-04-03T09:30:15Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "유소년 부모님에게 진지하게 쓴소리 하는 이천수.. | 금쪽같은 네 새끼 EP1 |",
+        "description": "한국 축구의 미래가 될 꿈나무 인서의 앞날을 응원합니다\n\n구독과 좋아요는 큰 힘이 됩니다\n퍼가실 때 본문 링크와 출처를 꼭 남겨주세요~!\n\n광고 제휴 문의 및 사연 제보  : leechunsoo2021@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BtFHYvx0ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BtFHYvx0ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BtFHYvx0ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_BtFHYvx0ck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_BtFHYvx0ck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "tags": [
+          "리춘수",
+          "인천유나이티드",
+          "유소년",
+          "한국축구"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "유소년 부모님에게 진지하게 쓴소리 하는 이천수.. | 금쪽같은 네 새끼 EP1 |",
+          "description": "한국 축구의 미래가 될 꿈나무 인서의 앞날을 응원합니다\n\n구독과 좋아요는 큰 힘이 됩니다\n퍼가실 때 본문 링크와 출처를 꼭 남겨주세요~!\n\n광고 제휴 문의 및 사연 제보  : leechunsoo2021@gmail.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "50WiE3X6ue5PtbKHdAuMfE63950",
+      "id": "s9qH3c7Y6Q8",
+      "snippet": {
+        "publishedAt": "2023-04-02T03:11:01Z",
+        "channelId": "UCIG4gr_wIy5CIlcFciUbIQw",
+        "title": "따듯하지만 소름끼치는 이야기 l 〈어항〉 EP.END",
+        "description": "#없는영화 #kmovie #kdrama \n채널 멤버십에 가입하시면 다음 에피소드를 2주 빠르게 보실 수 있습니다.\n\n배우지원은 개인프로필과 연기영상 첨부해서 아래 메일로 보내주세요!\n많은 지원 기다리겠습니다 :)\n\n배우지원, 광고문의 - jinyongjin.yt@gmail.com\n\n출연배우 [3부]\n양건열 - 강민우 https://www.instagram.com/muscle_kang/\n박은진 - 이화원 https://www.instagram.com/lee.hwa.won/\n이예린 - 안태희 https://www.instagram.com/lovemyoasis/\n오하윤 - 박하늘 https://www.instagram.com/bak_haneul/\n정예서 - 김단아 https://www.instagram.com/kimdana_han/\n임은영 - 장다빈 https://www.instagram.com/_dabni/\n장명진 - 손호태 https://www.instagram.com/taeslis/ \nNM엔터테인먼트 실장 - 강려경 https://www.instagram.com/dolceelen/\n\n장소협조 - 위더스비즈니스센터 센텀\n\n공동제공 - 새벽, 임준용\n\n시나리오\n진용진 https://www.instagram.com/jinyongjin92\n각색 - 이가연\n\n연출 - 진용진\n조연출 - 강민기\n연출팀 - 강형규, 이재경, 정종빈, 남윤희\n연출지원 - 강성택\n\nPD - 이소희\n제작팀 - 박현준, 백정빈, 이승민, 마호영\n\n촬영 - 김상문\n촬영B - 정인혁\n촬영팀 - 심형진, 김정현, 김주영, 양은현\n\n동시녹음 - 전병준\n붐 오퍼레이트 - 김연수, 김승현, 정채원\n\n미술 - 김혜린 \n미술팀 - 김해빈, 박민주\n미술지원 - 김희수\n\n분장 - 정가영, 최재영\n\n편집총괄 - 강형규\n편집 - 강형규, 이재혁, 백지우\n\n데이터 - 이동현\n\n색보정 - 강형규\n\n믹싱 - 전병준\n\nVFX Supervisor - 김태현\n\nCover Vocal by 테리눈나(@Terri_Nunna)\n\nLee Joonpyo, 권혁준, OMR_오답노트_출석체크_에듀허브, 신대용, 균이의 일상, 샌드백 TV, 뚜뜌, Kyung Chul Shin, 오유진, 신죠, Wonchun Park, 오쉬 컴퍼니(OSH COMPANY), 권노은, 여니마미, 나는 신이에요, HC2M, 이준배, 김효남, 코린이왕, 홍승호, 봉자씨, Double O Studio 더블오스튜디오, 박준수, 강진구, Jason Lee, 남올마이티, 사랑애, 김둘, 코토아마츠카미, Hyojung Kim, Won, 솔솔, 박건영, 하느르 Hanuru, tf doom, 김미리, Esther Chung, 차승준, 정성욱, choi, Jisang yoon, ieiri, 현실적인 서기 I 이서기 이야기, ㅎ1주, 야봉만, 더블유, 이용혁, OA 오아 Official, 배리나 다이어트 화이팅!, 장태민, 효소, 정다은, 조수연, 김시훈, 이다원, 정지민, 동위, seonmi love, gksthff, 이지영, WestRain, 호 곰, junhoyoung kim, 카페밀리 CAFEMILY, 김미경, 뿌르룽, 하요, 희진, 한이슬, AllIsWell, Erune Eru, 김동균, 아카시아향, 조연수 님 Blue Tie Master 멤버십에 가입해 주셔서 감사합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9qH3c7Y6Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9qH3c7Y6Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9qH3c7Y6Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s9qH3c7Y6Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s9qH3c7Y6Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진용진",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "따듯하지만 소름끼치는 이야기 l 〈어항〉 EP.END",
+          "description": "#없는영화 #kmovie #kdrama \n채널 멤버십에 가입하시면 다음 에피소드를 2주 빠르게 보실 수 있습니다.\n\n배우지원은 개인프로필과 연기영상 첨부해서 아래 메일로 보내주세요!\n많은 지원 기다리겠습니다 :)\n\n배우지원, 광고문의 - jinyongjin.yt@gmail.com\n\n출연배우 [3부]\n양건열 - 강민우 https://www.instagram.com/muscle_kang/\n박은진 - 이화원 https://www.instagram.com/lee.hwa.won/\n이예린 - 안태희 https://www.instagram.com/lovemyoasis/\n오하윤 - 박하늘 https://www.instagram.com/bak_haneul/\n정예서 - 김단아 https://www.instagram.com/kimdana_han/\n임은영 - 장다빈 https://www.instagram.com/_dabni/\n장명진 - 손호태 https://www.instagram.com/taeslis/ \nNM엔터테인먼트 실장 - 강려경 https://www.instagram.com/dolceelen/\n\n장소협조 - 위더스비즈니스센터 센텀\n\n공동제공 - 새벽, 임준용\n\n시나리오\n진용진 https://www.instagram.com/jinyongjin92\n각색 - 이가연\n\n연출 - 진용진\n조연출 - 강민기\n연출팀 - 강형규, 이재경, 정종빈, 남윤희\n연출지원 - 강성택\n\nPD - 이소희\n제작팀 - 박현준, 백정빈, 이승민, 마호영\n\n촬영 - 김상문\n촬영B - 정인혁\n촬영팀 - 심형진, 김정현, 김주영, 양은현\n\n동시녹음 - 전병준\n붐 오퍼레이트 - 김연수, 김승현, 정채원\n\n미술 - 김혜린 \n미술팀 - 김해빈, 박민주\n미술지원 - 김희수\n\n분장 - 정가영, 최재영\n\n편집총괄 - 강형규\n편집 - 강형규, 이재혁, 백지우\n\n데이터 - 이동현\n\n색보정 - 강형규\n\n믹싱 - 전병준\n\nVFX Supervisor - 김태현\n\nCover Vocal by 테리눈나(@Terri_Nunna)\n\nLee Joonpyo, 권혁준, OMR_오답노트_출석체크_에듀허브, 신대용, 균이의 일상, 샌드백 TV, 뚜뜌, Kyung Chul Shin, 오유진, 신죠, Wonchun Park, 오쉬 컴퍼니(OSH COMPANY), 권노은, 여니마미, 나는 신이에요, HC2M, 이준배, 김효남, 코린이왕, 홍승호, 봉자씨, Double O Studio 더블오스튜디오, 박준수, 강진구, Jason Lee, 남올마이티, 사랑애, 김둘, 코토아마츠카미, Hyojung Kim, Won, 솔솔, 박건영, 하느르 Hanuru, tf doom, 김미리, Esther Chung, 차승준, 정성욱, choi, Jisang yoon, ieiri, 현실적인 서기 I 이서기 이야기, ㅎ1주, 야봉만, 더블유, 이용혁, OA 오아 Official, 배리나 다이어트 화이팅!, 장태민, 효소, 정다은, 조수연, 김시훈, 이다원, 정지민, 동위, seonmi love, gksthff, 이지영, WestRain, 호 곰, junhoyoung kim, 카페밀리 CAFEMILY, 김미경, 뿌르룽, 하요, 희진, 한이슬, AllIsWell, Erune Eru, 김동균, 아카시아향, 조연수 님 Blue Tie Master 멤버십에 가입해 주셔서 감사합니다."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "67eo-EJ-1zAOY2rsqRpBtudFyxM",
+      "id": "U6z9qdx538s",
+      "snippet": {
+        "publishedAt": "2023-04-02T09:34:11Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "🧳EP.1-2ㅣ킬러 고객 맞춤 '신상 게임'의 등장에 줄줄이 쓰러짐ㅣ🧳출장십오야2 X 길복순",
+        "description": "#유료광고포함 #전도연 #설경구 #김시아 #이솜 #이연 #길복순 #출장십오야2\n\n부르면, 달려 갑니다!\n영업재개 예능배달서비스 [출장십오야2]\n\n[일] 저녁 6시 유튜브 채널십오야에서\n\n출장 소식이 궁금하다면?\nhttps://bit.ly/2RpuQEt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6z9qdx538s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6z9qdx538s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6z9qdx538s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U6z9qdx538s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U6z9qdx538s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채널 십오야",
+        "tags": [
+          "나영석",
+          "나PD",
+          "아간세",
+          "아이슬란드간세끼",
+          "이수근",
+          "수근세끼",
+          "은지원",
+          "지원세끼",
+          "삼시세끼",
+          "세끼",
+          "신효정",
+          "나피디",
+          "묘한이",
+          "tvN",
+          "라끼남",
+          "라면",
+          "라면끼리는남자",
+          "강호동",
+          "양정우",
+          "육봉선생",
+          "6봉선생",
+          "라면먹방",
+          "마포멋쟁이",
+          "마포",
+          "멋쟁이",
+          "송민호",
+          "표지훈",
+          "민호",
+          "지훈",
+          "피오",
+          "MINO",
+          "PO",
+          "P.O",
+          "위너",
+          "WINNER",
+          "송표",
+          "표송",
+          "패션",
+          "패션유튜버",
+          "패션유튜브",
+          "삼시네세끼",
+          "달나라공약이행프로젝트",
+          "달나라프로젝트",
+          "달나라",
+          "젝스키스",
+          "젝키",
+          "Sechs Kies",
+          "슬의",
+          "슬기로운하드털이",
+          "슬의생",
+          "신원호",
+          "조정석",
+          "유연석",
+          "장겨울",
+          "hospitalplaylist",
+          "이식당",
+          "나홀로이식당",
+          "나노",
+          "우주",
+          "김준",
+          "어깨춤",
+          "언제까지어깨춤을추게할거야",
+          "규현",
+          "조규현",
+          "조정뱅이",
+          "슈퍼주니어",
+          "superjunior",
+          "슈주",
+          "악마는정남이를입는다",
+          "악마정남",
+          "배정남",
+          "출장십오야",
+          "출장",
+          "슬기로운캠핑생활",
+          "캠핑생활",
+          "슬캠",
+          "내과박원장",
+          "이서진",
+          "BH",
+          "BTS",
+          "하이브",
+          "hybe",
+          "스타쉽",
+          "starship",
+          "txt",
+          "르세라핌",
+          "lesserafim",
+          "세븐틴",
+          "seventeen",
+          "지구오락실",
+          "지락실",
+          "토롱이"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🧳EP.1-2ㅣ킬러 고객 맞춤 '신상 게임'의 등장에 줄줄이 쓰러짐ㅣ🧳출장십오야2 X 길복순",
+          "description": "#유료광고포함 #전도연 #설경구 #김시아 #이솜 #이연 #길복순 #출장십오야2\n\n부르면, 달려 갑니다!\n영업재개 예능배달서비스 [출장십오야2]\n\n[일] 저녁 6시 유튜브 채널십오야에서\n\n출장 소식이 궁금하다면?\nhttps://bit.ly/2RpuQEt"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q6LQf5Ts08_yNQivzp3J0ZVMLdA",
+      "id": "C31FhHDisGs",
+      "snippet": {
+        "publishedAt": "2023-04-03T01:28:00Z",
+        "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+        "title": "최강야구 35회 예고편 - 완성형 몬스터즈를 위한 「트라이아웃」",
+        "description": "완성형 몬스터즈를 위한 「트라이아웃」\n\n단 3자리를 놓고 펼쳐지는\n207인의 불꽃 튀는 경쟁🔥\n\n새로운 시즌, 달라진 몬스터즈가 온다↗\n《최강야구》 4월 10일 월요일 밤 10시 30분 방송!\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C31FhHDisGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C31FhHDisGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C31FhHDisGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C31FhHDisGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C31FhHDisGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Entertainment",
+        "tags": [
+          "최강야구",
+          "김성근",
+          "이대호",
+          "박용택",
+          "유희관",
+          "정근우",
+          "심수창",
+          "송승준",
+          "이택근",
+          "장원삼",
+          "정의윤",
+          "서동욱",
+          "정성훈",
+          "이홍구",
+          "김문호",
+          "이대은",
+          "김선우",
+          "정용검",
+          "오세훈",
+          "오주원",
+          "최수현",
+          "박찬희",
+          "이승엽",
+          "한경빈",
+          "류현인",
+          "윤준호",
+          "정수성",
+          "지석훈",
+          "최강몬스터즈",
+          "야구선수",
+          "야구팀",
+          "김성근감독",
+          "최강야구미리보기",
+          "최강야구투수",
+          "투수진",
+          "몬스터즈투수진",
+          "타자",
+          "트라이아웃",
+          "포투",
+          "유격수",
+          "투수",
+          "베이징",
+          "올림픽"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "최강야구 35회 예고편 - 완성형 몬스터즈를 위한 「트라이아웃」",
+          "description": "완성형 몬스터즈를 위한 「트라이아웃」\n\n단 3자리를 놓고 펼쳐지는\n207인의 불꽃 튀는 경쟁🔥\n\n새로운 시즌, 달라진 몬스터즈가 온다↗\n《최강야구》 4월 10일 월요일 밤 10시 30분 방송!\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C3qA6SXyNIRQzsD-QgDiTsm8LxE",
+      "id": "EnufzGyPs2s",
+      "snippet": {
+        "publishedAt": "2023-04-03T03:15:00Z",
+        "channelId": "UCcNUpInQt1tI3JC_oTPQ20w",
+        "title": "절대 소금으로 하지마세요. 대박집 오이무침 이렇게 만들어 맛있고 냉장고에서 물이 안생겨요~!",
+        "description": "#오이무침\n\n재료 : 오이2개 달래1단\n\n양념 : 고추장1 고춧가루3 다진마늘1 양조간장2 매실액1 올리고당2 참기름1 식초2큰술, 설탕1, 통깨\n\n1. 오이를 흐르는 물에 문대며 깨끗이 씻어주세요.\n\n2. 오이는 양쪽끝은 5cm정도 잘라 준 후 먹기좋게 썰어주세요. \n\n3. 오이를 볼에 담고 굵은소금 1큰술을 뿌리고 잘 버무린 뒤 10분간 절여주세요.\n\n4. 절인 오이는 찬물에 깨끗이 씻어준 후 체에 받쳐 물기를 빼주세요.\n\n5. 달래는 깨끗이 씻어주고, 알뿌리 부분이 누렇게 뜨거나 물러진 부분이 있음 버려주세요.\n\n6. 달래는 3cm간격으로 썰어주고, 알뿌리 부분은 따로 으깨 준비해주세요. \n\n7. 양념장을 만들어요 (고추장1T 고춧가루3T 다진마늘1T 양조간장2T 설탕1T 매실액1T 올리고당2T 참기름1T 식초2T 달래알뿌리)\n\n8. 양념장을 2/3정도 넣은 뒤  절인 오이만 무치고, 달래를 넣은 후 나머지 양념장을 넣으며 간을 맞춰주세요.\n\n⭐️요리왕비룡  멤버십 가입 (응원 감사합니다!)\nhttps://www.youtube.com/channel/UCcNUpInQt1tI3JC_oTPQ20w/join\n\n1컵 = 200ml 기준이에요.\n1T = 성인숟가락 하나에요.\n\n오늘도 영상을 시청하러 와주셔서 감사합니다.\n구독과 좋아요 댓글은 채널에 큰 힘이 됩니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EnufzGyPs2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EnufzGyPs2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EnufzGyPs2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EnufzGyPs2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EnufzGyPs2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "요리왕비룡 Korean Food Cooking",
+        "tags": [
+          "오이무침",
+          "오이김치맛있게하는법"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "절대 소금으로 하지마세요. 대박집 오이무침 이렇게 만들어 맛있고 냉장고에서 물이 안생겨요~!",
+          "description": "#오이무침\n\n재료 : 오이2개 달래1단\n\n양념 : 고추장1 고춧가루3 다진마늘1 양조간장2 매실액1 올리고당2 참기름1 식초2큰술, 설탕1, 통깨\n\n1. 오이를 흐르는 물에 문대며 깨끗이 씻어주세요.\n\n2. 오이는 양쪽끝은 5cm정도 잘라 준 후 먹기좋게 썰어주세요. \n\n3. 오이를 볼에 담고 굵은소금 1큰술을 뿌리고 잘 버무린 뒤 10분간 절여주세요.\n\n4. 절인 오이는 찬물에 깨끗이 씻어준 후 체에 받쳐 물기를 빼주세요.\n\n5. 달래는 깨끗이 씻어주고, 알뿌리 부분이 누렇게 뜨거나 물러진 부분이 있음 버려주세요.\n\n6. 달래는 3cm간격으로 썰어주고, 알뿌리 부분은 따로 으깨 준비해주세요. \n\n7. 양념장을 만들어요 (고추장1T 고춧가루3T 다진마늘1T 양조간장2T 설탕1T 매실액1T 올리고당2T 참기름1T 식초2T 달래알뿌리)\n\n8. 양념장을 2/3정도 넣은 뒤  절인 오이만 무치고, 달래를 넣은 후 나머지 양념장을 넣으며 간을 맞춰주세요.\n\n⭐️요리왕비룡  멤버십 가입 (응원 감사합니다!)\nhttps://www.youtube.com/channel/UCcNUpInQt1tI3JC_oTPQ20w/join\n\n1컵 = 200ml 기준이에요.\n1T = 성인숟가락 하나에요.\n\n오늘도 영상을 시청하러 와주셔서 감사합니다.\n구독과 좋아요 댓글은 채널에 큰 힘이 됩니다!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SfGONMBzE4MOOGR__N68WPpPscg",
+      "id": "NPJVff48Mc8",
+      "snippet": {
+        "publishedAt": "2023-04-03T12:00:12Z",
+        "channelId": "UCYDyvqaGX6WxH77N04sj6mg",
+        "title": "[VLOG] 대체 너 왜 안 자니..? 본격 육아 시작❗️제대로 멘붕 온 초보 엄마아빠😱",
+        "description": "세상의 모든 엄마 아빠들 존경합니다.\n\ninstagram : @r_yuhyeju\n\nYouTube & Instagram 문의\nlijulike@icecreative.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NPJVff48Mc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NPJVff48Mc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NPJVff48Mc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NPJVff48Mc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NPJVff48Mc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리쥬라이크 LIJULIKE",
+        "tags": [
+          "브이로그",
+          "커플vlog",
+          "부부",
+          "유혜주"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[VLOG] 대체 너 왜 안 자니..? 본격 육아 시작❗️제대로 멘붕 온 초보 엄마아빠😱",
+          "description": "세상의 모든 엄마 아빠들 존경합니다.\n\ninstagram : @r_yuhyeju\n\nYouTube & Instagram 문의\nlijulike@icecreative.kr"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ak5ZCyh3sHGB7bu7fkFK-v6D42w",
+      "id": "jPQU5m09Z8Q",
+      "snippet": {
+        "publishedAt": "2023-04-03T08:56:18Z",
+        "channelId": "UCI2T1_bAtgnKKzfhw3Qib9w",
+        "title": "옥지의 옷정리 ~!",
+        "description": "기획/대본: 이주용, 장예빈\n애니메이션: 이주용, Hozzaa2, 허영현, 하현준, 김민석\n배경/3D: 추헌주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPQU5m09Z8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPQU5m09Z8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPQU5m09Z8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPQU5m09Z8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPQU5m09Z8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빵빵이의 일상",
+        "tags": [
+          "빵빵이",
+          "이주용",
+          "병맛",
+          "개그",
+          "코미디",
+          "애니메이션"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "옥지의 옷정리 ~!",
+          "description": "기획/대본: 이주용, 장예빈\n애니메이션: 이주용, Hozzaa2, 허영현, 하현준, 김민석\n배경/3D: 추헌주"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dMUb4kx386hvI-343W432QiJjoQ",
+      "id": "hb10xvqDzEg",
+      "snippet": {
+        "publishedAt": "2023-04-03T05:00:05Z",
+        "channelId": "UCYZv9v_bwfMGc64gLRe34OA",
+        "title": "[TV 동물농장 레전드] 어느 날 집 앞에 나타난 카네코르소, 끈질긴 추적 끝에 마주한 진실은?  #TV동물농장 #AnimalFarm #SBSstory",
+        "description": "TV 동물농장 865회 180513\n\n맹견 중의 맹견, 주로 경비견으로 활약하는 카네코르소가\n하나도 아니고 넷씩이나 한 남자의 집 앞에 나타났다는데..\n예고 없이 불쑥 나타나 아저씨 뒤를 졸졸 쫓아다니며 제집인냥 \n주인 행세를 하고 있으니.. 아저씨는 환장할 노릇이라는데~ \n도대체 이 녀석들은 어디서 온 걸까? 그리고 끈질길 추적 끝에 마주한 진실..!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hb10xvqDzEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hb10xvqDzEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hb10xvqDzEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hb10xvqDzEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hb10xvqDzEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS STORY",
+        "tags": [
+          "SBS",
+          "SBSStory",
+          "교양",
+          "동물농장",
+          "동물농장다시보기",
+          "동물농장레전드",
+          "동물농장강아지",
+          "동물농장개",
+          "동물농장카네코르소",
+          "동물농장맹견",
+          "동물농장유기견",
+          "동물농장카네코르소유기",
+          "동물농장마피아견",
+          "카네코르소",
+          "카네코르소츤데레아저씨",
+          "개떡같은것들아",
+          "순간포착참새아저씨",
+          "동물농장모음",
+          "동물농장스페셜",
+          "동물",
+          "동물영상",
+          "강아지",
+          "애니멀봐",
+          "애니멀봐강아지",
+          "동물농장865회",
+          "animal",
+          "Animal Farm",
+          "dog",
+          "puppy",
+          "동물농장풀버전"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[TV 동물농장 레전드] 어느 날 집 앞에 나타난 카네코르소, 끈질긴 추적 끝에 마주한 진실은?  #TV동물농장 #AnimalFarm #SBSstory",
+          "description": "TV 동물농장 865회 180513\n\n맹견 중의 맹견, 주로 경비견으로 활약하는 카네코르소가\n하나도 아니고 넷씩이나 한 남자의 집 앞에 나타났다는데..\n예고 없이 불쑥 나타나 아저씨 뒤를 졸졸 쫓아다니며 제집인냥 \n주인 행세를 하고 있으니.. 아저씨는 환장할 노릇이라는데~ \n도대체 이 녀석들은 어디서 온 걸까? 그리고 끈질길 추적 끝에 마주한 진실..!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lqK4Wy9vM9wGqj23VNg58dFreoA",
+      "id": "4vFR_GQzNgI",
+      "snippet": {
+        "publishedAt": "2023-04-03T08:30:00Z",
+        "channelId": "UCJpAwvQaZyCI5spAz7tipGA",
+        "title": "살기감지",
+        "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n\n파카 이메일 - soninuki@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vFR_GQzNgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vFR_GQzNgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vFR_GQzNgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vFR_GQzNgI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vFR_GQzNgI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PAKA",
+        "tags": [
+          "파카",
+          "paka",
+          "손인욱",
+          "리그오브레전드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "살기감지",
+          "description": "파카 생방송:  https://www.twitch.tv/paka9999\n\n\n파카 이메일 - soninuki@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gPDuin2azqfdyRGa6bi7fRoJ_RY",
+      "id": "aB9JLjpvoCo",
+      "snippet": {
+        "publishedAt": "2023-04-03T08:59:59Z",
+        "channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
+        "title": "기안84 (KIAN84), AOMG 브랜드 컨설팅 [ENG]",
+        "description": "기안84 (KIAN84)\nㅤ\n기안84, AOMG 브랜드 컨설팅\nㅤ\n-\n#기안84 #KIAN84\n#AOMG\nㅤ\nㅤ\nㅤ\n- More Information -\nㅤ\n@ 기안84 (KIAN84)\nhttps://www.instagram.com/khmnim1513\nhttps://www.facebook.com/khmnim1513\nㅤ\n@ AOMG \nhttp://www.aomgofficial.com\nhttp://www.instagram.com/aomgofficial\nhttp://www.twitter.com/aomgofficial\nhttp://www.facebook.com/aomgofficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aB9JLjpvoCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aB9JLjpvoCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aB9JLjpvoCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aB9JLjpvoCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aB9JLjpvoCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AOMGOFFICIAL",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "기안84 (KIAN84), AOMG 브랜드 컨설팅 [ENG]",
+          "description": "기안84 (KIAN84)\nㅤ\n기안84, AOMG 브랜드 컨설팅\nㅤ\n-\n#기안84 #KIAN84\n#AOMG\nㅤ\nㅤ\nㅤ\n- More Information -\nㅤ\n@ 기안84 (KIAN84)\nhttps://www.instagram.com/khmnim1513\nhttps://www.facebook.com/khmnim1513\nㅤ\n@ AOMG \nhttp://www.aomgofficial.com\nhttp://www.instagram.com/aomgofficial\nhttp://www.twitter.com/aomgofficial\nhttp://www.facebook.com/aomgofficial"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I0c6nyO0A-ULfdN_WKjAa2P2B2Y",
+      "id": "AivY-VlwV58",
+      "snippet": {
+        "publishedAt": "2023-04-03T11:50:32Z",
+        "channelId": "UCBnUdp-4hIKkGlz8MVL7s3g",
+        "title": "[집중취재] 불법 현수막 떼던 공무원 '벌금'",
+        "description": "가로등과 가로수와 같은 기둥만 있으면\n어김없이 내걸려 보행자와 운전자의\n시야를 방해하는 불법 현수막 문제.\n\n여러차례 보도해서 \n거리가 많이 정비되고 있는데요.\n\n그런데, 이러한 불법 현수막을 \n제거하는 공무를 수행하다가 \n고소˙고발을 당해 \n나홀로 재판을 받는 공무원들이 있습니다.\n\n집중취재, 김도균 기자입니다.\n\n◀ＶＣＲ▶\n\n시내 곳곳에 걸려 있는\n불법 현수막을 제거하는\n춘천시 광고물팀.\n\n춘천지방법원 법정에 \n피고인 신분으로 섰습니다.\n\n지난 2021년 8월, \n춘천 온의동 사거리에 신고없이 설치된 \n현수막들을 '불법'으로 보고 제거했는데\n\n현수막을 내건 사람이 \n'재물손괴' 혐의로 고소했기 때문입니다.\n\n검찰이 약식 기소했고\n법원은 혐의를 인정해\n벌금 50만 원을 명령했습니다.\n\n제거반원들은 정식 재판을 요청했고\n춘천시는 법률 지원을 약속했습니다.\n\n◀ＩＮＴ▶ 손장옥 / 춘천시 건축과 광고물팀장\n\"적법하게 직무를 수행한 공무원이 형사상 불이익을 받지 않도록\n춘천시에서는 변호사 선임 등 법적인 지원을 하고 있습니다.\"\n\n변호사 등 법률 비용을 지원한다는 건데\n사실 반쪽짜리에 불과합니다.\n\n피고인들이 먼저 변호 비용을 내면\n춘천시가 나중에 보전해주는 방식인데다가\n재판에서 지면 지원 비용을\n도로 반납해야 합니다.\n\n재판과 함께 징계도 걱정해야 합니다.\n\n공무원 복무규정에 따라\n유무죄의 여부와 관계 없이\n검사가 기소만 해도 징계위원회에\n회부되기 때문입니다.\n\n관련 공무원들은\n불법현수막을 제거하면서도\n일일히 법을 따져가며 공무를 수행했는데\n단순히 피소됐다는 이유만으로 \n책임도 오로지 개인이 져야 하는게\n현실입니다.\n\n◀ＩＮＴ▶ 한덕근 / 춘천시 건축과 광고물팀\n\"현수막이 집회 신고가 안 돼 있는데도 떼야 하는지 아닌지\n그런 것도 확실히 한 번 두 번 더 되새기고..\"\n\n'적극 행정'을 했다가\n개인이 괜한 손해를 볼 수 있다는 인식이\n공직사회에 퍼지지 않도록\n공무를 수행하다 생긴 법적 문제를\n지자체가 함께 책임지려는 노력이\n필요해 보입니다.\n\nMBC뉴스 김도균입니다.\n\n◀ＥＮＤ▶\n\n#공무원 #고소 #불법현수막 #재물손괴 #징계위원회",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AivY-VlwV58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AivY-VlwV58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AivY-VlwV58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AivY-VlwV58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AivY-VlwV58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "춘천MBC뉴스",
+        "tags": [
+          "춘천MBC",
+          "뉴스",
+          "MBC뉴스",
+          "강원",
+          "강원도",
+          "춘천",
+          "철원",
+          "화천",
+          "양구",
+          "인제",
+          "홍천",
+          "원주",
+          "강릉",
+          "삼척",
+          "횡성",
+          "평창",
+          "영월",
+          "양평",
+          "제천",
+          "고속",
+          "속초",
+          "양양",
+          "정선",
+          "태백",
+          "동해"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[집중취재] 불법 현수막 떼던 공무원 '벌금'",
+          "description": "가로등과 가로수와 같은 기둥만 있으면\n어김없이 내걸려 보행자와 운전자의\n시야를 방해하는 불법 현수막 문제.\n\n여러차례 보도해서 \n거리가 많이 정비되고 있는데요.\n\n그런데, 이러한 불법 현수막을 \n제거하는 공무를 수행하다가 \n고소˙고발을 당해 \n나홀로 재판을 받는 공무원들이 있습니다.\n\n집중취재, 김도균 기자입니다.\n\n◀ＶＣＲ▶\n\n시내 곳곳에 걸려 있는\n불법 현수막을 제거하는\n춘천시 광고물팀.\n\n춘천지방법원 법정에 \n피고인 신분으로 섰습니다.\n\n지난 2021년 8월, \n춘천 온의동 사거리에 신고없이 설치된 \n현수막들을 '불법'으로 보고 제거했는데\n\n현수막을 내건 사람이 \n'재물손괴' 혐의로 고소했기 때문입니다.\n\n검찰이 약식 기소했고\n법원은 혐의를 인정해\n벌금 50만 원을 명령했습니다.\n\n제거반원들은 정식 재판을 요청했고\n춘천시는 법률 지원을 약속했습니다.\n\n◀ＩＮＴ▶ 손장옥 / 춘천시 건축과 광고물팀장\n\"적법하게 직무를 수행한 공무원이 형사상 불이익을 받지 않도록\n춘천시에서는 변호사 선임 등 법적인 지원을 하고 있습니다.\"\n\n변호사 등 법률 비용을 지원한다는 건데\n사실 반쪽짜리에 불과합니다.\n\n피고인들이 먼저 변호 비용을 내면\n춘천시가 나중에 보전해주는 방식인데다가\n재판에서 지면 지원 비용을\n도로 반납해야 합니다.\n\n재판과 함께 징계도 걱정해야 합니다.\n\n공무원 복무규정에 따라\n유무죄의 여부와 관계 없이\n검사가 기소만 해도 징계위원회에\n회부되기 때문입니다.\n\n관련 공무원들은\n불법현수막을 제거하면서도\n일일히 법을 따져가며 공무를 수행했는데\n단순히 피소됐다는 이유만으로 \n책임도 오로지 개인이 져야 하는게\n현실입니다.\n\n◀ＩＮＴ▶ 한덕근 / 춘천시 건축과 광고물팀\n\"현수막이 집회 신고가 안 돼 있는데도 떼야 하는지 아닌지\n그런 것도 확실히 한 번 두 번 더 되새기고..\"\n\n'적극 행정'을 했다가\n개인이 괜한 손해를 볼 수 있다는 인식이\n공직사회에 퍼지지 않도록\n공무를 수행하다 생긴 법적 문제를\n지자체가 함께 책임지려는 노력이\n필요해 보입니다.\n\nMBC뉴스 김도균입니다.\n\n◀ＥＮＤ▶\n\n#공무원 #고소 #불법현수막 #재물손괴 #징계위원회"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BWqvYN9anKPHMHWqxcw87sczD8c",
+      "id": "1WEAJ-DFkHE",
+      "snippet": {
+        "publishedAt": "2023-04-01T20:00:04Z",
+        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "title": "$1 vs $500,000 Plane Ticket!",
+        "description": "Check out ALL of MrBeast’s awesome jobs or discover a new opportunity at https://bit.ly/MrBeast_ZipRecruiter\n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1WEAJ-DFkHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1WEAJ-DFkHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1WEAJ-DFkHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1WEAJ-DFkHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1WEAJ-DFkHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrBeast",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "$1 vs $500,000 Plane Ticket!",
+          "description": "Check out ALL of MrBeast’s awesome jobs or discover a new opportunity at https://bit.ly/MrBeast_ZipRecruiter\n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pZolxWhpw8fqZKzhtVLz1AqFq90",
+      "id": "RxPF0WqjVP0",
+      "snippet": {
+        "publishedAt": "2023-03-31T10:03:06Z",
+        "channelId": "UCMca81qQN9V3jOe7wyfbvDQ",
+        "title": "Cupid (Twin Ver.)",
+        "description": "Provided to YouTube by WM Korea\n\nCupid (Twin Ver.) · FIFTY FIFTY\n\nThe Beginning: Cupid\n\n℗ 2023 ATTRAKT under exclusive license to Warner Music Korea\n\nProducer: Adam Von Mentzer\nProgrammer: Adam Von Mentzer\nVocals: FIFTY FIFTY\nProducer: Louise Udin\nProgrammer: Louise Udin\nProducer: Mac Felländer-Tsai\nProgrammer: Mac Felländer-Tsai\nProducer: SIAHN\nProgrammer: SIAHN\nLyricist: AHIN\nComposer, Lyricist: Adam Von Mentzer\nComposer, Lyricist: Louise Udin\nComposer, Lyricist: Mac Felländer-Tsai\nLyricist: SIAHN\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxPF0WqjVP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxPF0WqjVP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxPF0WqjVP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RxPF0WqjVP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RxPF0WqjVP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FIFTY FIFTY - Topic",
+        "tags": [
+          "FIFTY FIFTY",
+          "The Beginning: Cupid",
+          "Cupid (Twin Ver.)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cupid (Twin Ver.)",
+          "description": "Provided to YouTube by WM Korea\n\nCupid (Twin Ver.) · FIFTY FIFTY\n\nThe Beginning: Cupid\n\n℗ 2023 ATTRAKT under exclusive license to Warner Music Korea\n\nProducer: Adam Von Mentzer\nProgrammer: Adam Von Mentzer\nVocals: FIFTY FIFTY\nProducer: Louise Udin\nProgrammer: Louise Udin\nProducer: Mac Felländer-Tsai\nProgrammer: Mac Felländer-Tsai\nProducer: SIAHN\nProgrammer: SIAHN\nLyricist: AHIN\nComposer, Lyricist: Adam Von Mentzer\nComposer, Lyricist: Louise Udin\nComposer, Lyricist: Mac Felländer-Tsai\nLyricist: SIAHN\n\nAuto-generated by YouTube."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZjfHbah4py5jeAEKOZMnrYOej5w",
+      "id": "gVudIIhyjt8",
+      "snippet": {
+        "publishedAt": "2023-04-03T23:00:07Z",
+        "channelId": "UCtK4QAczAN2mt2ow_jlGinQ",
+        "title": "EVERTON 1-1 TOTTENHAM | Premier League highlights",
+        "description": "Another spirited display didn’t look to be enough when Abdoulaye Doucoue was shown a straight red card just before the hour mark for a shove on Harry Kane, before the England striker netted from the penalty spot minutes later after Keane has brought down Cristian Romero.\n\nBut Everton refused to give in. And after piling on the pressure despite the numerical disadvantage, a straight red card for substitute Lucas Moura for a late challenge on Keane two minutes from time offered a lifeline.\n\nKeane then turned hero in dramatic fashion, smashing a superb 25-yard drive past Hugo Lloris to spark jubilant scenes around Goodison.\n\nSubscribe to Everton Football Club's official YouTube Channel: http://bit.ly/2wtCEbB\n\nFollow us on Facebook: http://facebook.com/everton\nFollow us on Twitter: http://twitter.com/everton\nFollow us on Instagram: http://instagram.com/everton\n\nWelcome to the Official Everton Football Club YouTube channel. We'll offer fans real insight into life at Goodison Park, Finch Farm and on the road with the Blues.\n\n#PremierLeague #Everton #Spurs #EVETOT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gVudIIhyjt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gVudIIhyjt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gVudIIhyjt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gVudIIhyjt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gVudIIhyjt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Everton Football Club",
+        "tags": [
+          "Everton;",
+          "Everton",
+          "Football",
+          "Club;",
+          "efc;",
+          "the",
+          "toffees;",
+          "blues;",
+          "premier",
+          "league;",
+          "goodison;",
+          "finch",
+          "farm;",
+          "epl",
+          "pl",
+          "highlights",
+          "goals",
+          "doucoure",
+          "kane",
+          "keane",
+          "moura",
+          "dyche",
+          "stellini"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "EVERTON 1-1 TOTTENHAM | Premier League highlights",
+          "description": "Another spirited display didn’t look to be enough when Abdoulaye Doucoue was shown a straight red card just before the hour mark for a shove on Harry Kane, before the England striker netted from the penalty spot minutes later after Keane has brought down Cristian Romero.\n\nBut Everton refused to give in. And after piling on the pressure despite the numerical disadvantage, a straight red card for substitute Lucas Moura for a late challenge on Keane two minutes from time offered a lifeline.\n\nKeane then turned hero in dramatic fashion, smashing a superb 25-yard drive past Hugo Lloris to spark jubilant scenes around Goodison.\n\nSubscribe to Everton Football Club's official YouTube Channel: http://bit.ly/2wtCEbB\n\nFollow us on Facebook: http://facebook.com/everton\nFollow us on Twitter: http://twitter.com/everton\nFollow us on Instagram: http://instagram.com/everton\n\nWelcome to the Official Everton Football Club YouTube channel. We'll offer fans real insight into life at Goodison Park, Finch Farm and on the road with the Blues.\n\n#PremierLeague #Everton #Spurs #EVETOT"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hn5pkre5lKpIsCEGiGFoQV2EQGg",
+      "id": "AOzKtNQSkWU",
+      "snippet": {
+        "publishedAt": "2023-04-03T07:49:16Z",
+        "channelId": "UCLtOnhCSyMjJHVrHu8C0niQ",
+        "title": "[자연인] 547-2 통발을 건졌더니 상상도 못한 것들이 나왔다..!",
+        "description": "나는 자연인이다 547회 2023.03.29 방송\n\n💚매주 월,수,금 오전 11시 업로드💚\n\n#나는자연인이다 #자연인 #레전드 #MBN #이승윤 #윤택 \n\n✅ 나는 자연인이다 채널 구독하기: https://www.youtube.com/c/나는자연인이다mbn",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AOzKtNQSkWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AOzKtNQSkWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOzKtNQSkWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AOzKtNQSkWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AOzKtNQSkWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "나는 자연인이다",
+        "tags": [
+          "자연인",
+          "레전드",
+          "나는 자연인이다",
+          "MBN",
+          "이승윤",
+          "윤택",
+          "기호곤",
+          "통발",
+          "쏘가리",
+          "장어",
+          "회"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[자연인] 547-2 통발을 건졌더니 상상도 못한 것들이 나왔다..!",
+          "description": "나는 자연인이다 547회 2023.03.29 방송\n\n💚매주 월,수,금 오전 11시 업로드💚\n\n#나는자연인이다 #자연인 #레전드 #MBN #이승윤 #윤택 \n\n✅ 나는 자연인이다 채널 구독하기: https://www.youtube.com/c/나는자연인이다mbn"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ju1a8aLle94Eu6jO1u6b3NWPTfc",
+      "id": "Yvqz-BYBnp4",
+      "snippet": {
+        "publishedAt": "2023-04-02T21:15:30Z",
+        "channelId": "UCBJeMCIeLQos7wacox4hmLQ",
+        "title": "Napoli-Milan 0-4 | Leao and the Rossoneri stun league leaders: Goals & Highlights | Serie A 2022/23",
+        "description": "The unpredictable unfolds at the Diego Maradona Stadium as Napoli fail to reply to Milan’s 4 goals; the star of the show is undoubtedly Rafael Leao, who hit the 10-goal mark with a brace, becoming the highest-scoring Rossoneri player this season  | Serie A 2022/23\n\n#Highlights #NapoliMilan #SerieA\n\nThis is the official channel for the Serie A, providing all the latest highlights, interviews, news and features to keep you up to date with all things Italian football.\nSubscribe to the channel here! https://bit.ly/SERIEA_YT\n \nFind out more about the Serie A at: http://www.legaseriea.it/en/ \n\nQuesto è il canale ufficiale della Serie A, dove potrai avere accesso ai momenti salienti, alle interviste, alle notizie e alle funzionalità del momento per rimanere aggiornato sulle ultime novità del campionato.\nIscriviti qui al canale! https://bit.ly/SERIEA_YT\n\nPer maggiori informazioni sulla Serie A: http://www.legaseriea.it/it",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yvqz-BYBnp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yvqz-BYBnp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yvqz-BYBnp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yvqz-BYBnp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yvqz-BYBnp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Serie A",
+        "tags": [
+          "Ronaldo",
+          "Serie A",
+          "Dybala",
+          "highlights",
+          "Juventus",
+          "AC Milan",
+          "Inter Milan",
+          "Napoli",
+          "Roma",
+          "CR7",
+          "Cristiano Ronaldo",
+          "goals",
+          "full highlights",
+          "watch",
+          "partita",
+          "migliori gol",
+          "gol del mese",
+          "calcio",
+          "Italia",
+          "lukaku",
+          "Lazio",
+          "zlatan",
+          "ibrahimovic",
+          "highlights serie a",
+          "highlights inter",
+          "highlights juventus",
+          "highlights milan",
+          "highlights juve",
+          "highlights roma",
+          "lautaro",
+          "lautaro martinez",
+          "inter",
+          "juventus",
+          "juve",
+          "liga italiana",
+          "liga italia",
+          "lega italiana",
+          "lega italia",
+          "matchid=A||2022-23||UNICO||UNI||28||NAPMIL"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Napoli-Milan 0-4 | Leao and the Rossoneri stun league leaders: Goals & Highlights | Serie A 2022/23",
+          "description": "The unpredictable unfolds at the Diego Maradona Stadium as Napoli fail to reply to Milan’s 4 goals; the star of the show is undoubtedly Rafael Leao, who hit the 10-goal mark with a brace, becoming the highest-scoring Rossoneri player this season  | Serie A 2022/23\n\n#Highlights #NapoliMilan #SerieA\n\nThis is the official channel for the Serie A, providing all the latest highlights, interviews, news and features to keep you up to date with all things Italian football.\nSubscribe to the channel here! https://bit.ly/SERIEA_YT\n \nFind out more about the Serie A at: http://www.legaseriea.it/en/ \n\nQuesto è il canale ufficiale della Serie A, dove potrai avere accesso ai momenti salienti, alle interviste, alle notizie e alle funzionalità del momento per rimanere aggiornato sulle ultime novità del campionato.\nIscriviti qui al canale! https://bit.ly/SERIEA_YT\n\nPer maggiori informazioni sulla Serie A: http://www.legaseriea.it/it"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OFRFv2x4SUT3NnSfLnVtGq3YI4k",
+      "id": "WrhlTpEBM9c",
+      "snippet": {
+        "publishedAt": "2023-04-03T12:00:04Z",
+        "channelId": "UCtiObj3CsEAdNU6ZPWDsddQ",
+        "title": "TO DO X TXT - EP.102 MOA MOA Kyun Part 1",
+        "description": "TO DO X TXT - EP.102 MOA MOA Kyun Part 1\n\nConnect with TOMORROW X TOGETHER:\nhttps://ibighit.com/txt\nhttps://twitter.com/TXT_bighit\nhttps://twitter.com/TXT_members\nhttps://www.facebook.com/TXT.bighit\nhttps://www.instagram.com/txt_bighit\nhttps://www.tiktok.com/@txt.bighitent \nhttps://weverse.io/txt\nhttps://www.weibo.com/TXTbighit\nhttps://space.bilibili.com/3493085912763265/\n\n#투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #TODO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WrhlTpEBM9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WrhlTpEBM9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WrhlTpEBM9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WrhlTpEBM9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WrhlTpEBM9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TOMORROW X TOGETHER OFFICIAL",
+        "tags": [
+          "투모로우바이투게더",
+          "TOMORROW X TOGETHER",
+          "TXT",
+          "연준",
+          "수빈",
+          "휴닝카이",
+          "태현",
+          "범규",
+          "YEONJUN",
+          "SOOBIN",
+          "HUENINGKAI",
+          "TAEHYUN",
+          "BEOMGYU",
+          "빅히트뮤직"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TO DO X TXT - EP.102 MOA MOA Kyun Part 1",
+          "description": "TO DO X TXT - EP.102 MOA MOA Kyun Part 1\n\nConnect with TOMORROW X TOGETHER:\nhttps://ibighit.com/txt\nhttps://twitter.com/TXT_bighit\nhttps://twitter.com/TXT_members\nhttps://www.facebook.com/TXT.bighit\nhttps://www.instagram.com/txt_bighit\nhttps://www.tiktok.com/@txt.bighitent \nhttps://weverse.io/txt\nhttps://www.weibo.com/TXTbighit\nhttps://space.bilibili.com/3493085912763265/\n\n#투모로우바이투게더 #TOMORROW_X_TOGETHER #TXT #TODO"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pgOqCm_BjcYi_N1flsIrTfo9DZE",
+      "id": "CcAqoRmQWhA",
+      "snippet": {
+        "publishedAt": "2023-03-31T10:03:13Z",
+        "channelId": "UCMca81qQN9V3jOe7wyfbvDQ",
+        "title": "Cupid",
+        "description": "Provided to YouTube by WM Korea\n\nCupid · FIFTY FIFTY\n\nThe Beginning: Cupid\n\n℗ 2023 ATTRAKT under exclusive license to Warner Music Korea\n\nProducer: Adam Von Mentzer\nProgrammer: Adam Von Mentzer\nVocals: FIFTY FIFTY\nProducer: Louise Udin\nProgrammer: Louise Udin\nProducer: Mac Felländer-Tsai\nProgrammer: Mac Felländer-Tsai\nProducer: SIAHN\nProgrammer: SIAHN\nLyricist: AHIN\nComposer, Lyricist: Adam Von Mentzer\nLyricist: KEENA\nComposer, Lyricist: Louise Udin\nComposer, Lyricist: Mac Felländer-Tsai\nLyricist: SIAHN\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CcAqoRmQWhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CcAqoRmQWhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CcAqoRmQWhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CcAqoRmQWhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CcAqoRmQWhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FIFTY FIFTY - Topic",
+        "tags": [
+          "FIFTY FIFTY",
+          "The Beginning: Cupid",
+          "Cupid"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cupid",
+          "description": "Provided to YouTube by WM Korea\n\nCupid · FIFTY FIFTY\n\nThe Beginning: Cupid\n\n℗ 2023 ATTRAKT under exclusive license to Warner Music Korea\n\nProducer: Adam Von Mentzer\nProgrammer: Adam Von Mentzer\nVocals: FIFTY FIFTY\nProducer: Louise Udin\nProgrammer: Louise Udin\nProducer: Mac Felländer-Tsai\nProgrammer: Mac Felländer-Tsai\nProducer: SIAHN\nProgrammer: SIAHN\nLyricist: AHIN\nComposer, Lyricist: Adam Von Mentzer\nLyricist: KEENA\nComposer, Lyricist: Louise Udin\nComposer, Lyricist: Mac Felländer-Tsai\nLyricist: SIAHN\n\nAuto-generated by YouTube."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RTDLlIzb7YRE-C86C7skMNQaEX4",
+      "id": "NXMtJH5I5_g",
+      "snippet": {
+        "publishedAt": "2023-04-03T12:00:14Z",
+        "channelId": "UC69Z5Vd-Z6bdCC5LKM_lv_g",
+        "title": "금의환향 4천5백만 순천인의 자랑 김덱스 [Eng sub]",
+        "description": "내가 순천의 옥황상제다\n\n#김진영 #덱스 #순천 #브이로그",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXMtJH5I5_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXMtJH5I5_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXMtJH5I5_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NXMtJH5I5_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NXMtJH5I5_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "덱스101",
+        "tags": [
+          "덱스",
+          "덱스101",
+          "dex101",
+          "유디티",
+          "UDT",
+          "udt/seal",
+          "브이로그",
+          "남자 브이로그",
+          "브이로그 일상",
+          "김진영",
+          "kimjinyoung",
+          "jinyoungkim",
+          "dex",
+          "순천",
+          "고향",
+          "옥황상제",
+          "비숑",
+          "바비",
+          "여행"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "금의환향 4천5백만 순천인의 자랑 김덱스 [Eng sub]",
+          "description": "내가 순천의 옥황상제다\n\n#김진영 #덱스 #순천 #브이로그"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fE8bhe_Q_BnLG8x-MAefOLHQPec",
+      "id": "1wvz8Rs7dgc",
+      "snippet": {
+        "publishedAt": "2023-04-01T07:01:09Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[리무진서비스] EP.56 만우절 특집 with 방탄소년단 지민 | April Fools' Day Special with BTS Jimin",
+        "description": "#BTS #Jimin #지민 #이무진 #리무진서비스 #LEEMUJIN #LEEMUJINSERVICE\n\n00:00 이무진 - 거짓말 메들리💛\n10:54 지민 - Like Crazy (English Version)\n23:12 이무진 - Butterfly (원곡: 방탄소년단)\n\n최상의 라이브로 최고의 만족을 드립니다, ＜리무진 서비스＞\n\nTwitter : https://twitter.com/mujin_plz\nInstagram: https://www.instagram.com/mujin_plz/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wvz8Rs7dgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wvz8Rs7dgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wvz8Rs7dgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1wvz8Rs7dgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1wvz8Rs7dgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "tags": [
+          "KBS",
+          "KPOP",
+          "뮤직",
+          "KBSKPOP",
+          "K-POP",
+          "케이팝",
+          "kpop",
+          "KBSKpop",
+          "음악",
+          "kbs kpop",
+          "방탄소년단",
+          "BTS",
+          "Jimin",
+          "리무진서비스",
+          "지민",
+          "Like Crazy",
+          "지민 라이브",
+          "지민 뮤직뱅크",
+          "지민 앵콜",
+          "이무진 지민",
+          "Jimin hot100",
+          "Hot100",
+          "Billboard",
+          "Billboard hot100",
+          "빌보드 핫100"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[리무진서비스] EP.56 만우절 특집 with 방탄소년단 지민 | April Fools' Day Special with BTS Jimin",
+          "description": "#BTS #Jimin #지민 #이무진 #리무진서비스 #LEEMUJIN #LEEMUJINSERVICE\n\n00:00 이무진 - 거짓말 메들리💛\n10:54 지민 - Like Crazy (English Version)\n23:12 이무진 - Butterfly (원곡: 방탄소년단)\n\n최상의 라이브로 최고의 만족을 드립니다, ＜리무진 서비스＞\n\nTwitter : https://twitter.com/mujin_plz\nInstagram: https://www.instagram.com/mujin_plz/"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

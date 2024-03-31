@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Z2SGkzfduq2Q9wwDhqURHpa0LCw",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 7975,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CtVoa7WagKQYKZUjl5eAKXuoPlE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOoSbUoayQE"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-01T20:00:11Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - Cheating on You [Official Video]",
+        "description": "Charlie Puth - Cheating on You [Official Video] Download/Stream: https://CharliePuth.lnk.to/CheatingOnYouID Light Switch out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOoSbUoayQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOoSbUoayQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOoSbUoayQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-01T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GF8igBHUAS32Lq_Jonj0wUJdIyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PAKFzFqJa58"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T04:00:02Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "CHARLIE PUTH - THAT&#39;S NOT HOW THIS WORKS (FEAT. DAN + SHAY) [official music video]",
+        "description": "\"That's Not How This Works (feat. Dan + Shay)\" out now! Download/stream: https://charlieputh.lnk.to/ThatsNotHowThisWorksID ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAKFzFqJa58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAKFzFqJa58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAKFzFqJa58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EC4DdHuf5p-keqVk-k62r6vc5Is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nq3x1AkwgpY"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-04T15:00:11Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - That&#39;s Hilarious [Official Video]",
+        "description": "New album 'CHARLIE' out October 7! Pre-save /pre-order: https://charlieputh.lnk.to/CHARLIEID Listen to \"That's Hilarious\": ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-04T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eyES_b03UNtZ2Hx_Z6BLHvXTR_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BxuY9FET9Y4"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-14T22:01:17Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - One Call Away [Official Video]",
+        "description": "Charlie Puth - One Call Away [Official Video] From Charlie's debut album Nine Track Mind! Download/Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-14T22:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vkax1uMcIC6KV2FQ7m3d85G_TKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "67CY2STnzXU"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-05T13:20:27Z",
+        "channelId": "UCP0u3-5HEJ1jeZh4jGbLPoQ",
+        "title": "[한글 가사] Charile Puth - Suffer",
+        "description": "Charlie Puth - Suffer ♬ All proceeds are attributed to the original copyright holder. ♪ Official Audio: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67CY2STnzXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67CY2STnzXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67CY2STnzXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "네불리NeB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-05T13:20:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YF0gH0ZI5zqm8hjQlu8qx9cOM_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iwbo_nzCMY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-29T20:09:52Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "CHARLIE PUTH - THAT&#39;S NOT HOW THIS WORKS (short film)",
+        "description": "\"That's Not How This Works (feat. Dan + Shay)\" out now! Download/stream: https://charlieputh.lnk.to/ThatsNotHowThisWorksID ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iwbo_nzCMY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iwbo_nzCMY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iwbo_nzCMY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-29T20:09:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yWmQ529OkTja4Hz-Ht3tBQBmQ1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nfs8NYg7yQM"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-24T17:00:05Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - Attention [Official Video]",
+        "description": "Charlie Puth - Attention [Official Video] From Charlie's album Voicenotes! Download/Stream: https://Atlantic.lnk.to/VoicenotesID ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-24T17:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o7C5ExCd_Y-t0v3tY0iNRm-Qrls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ND7HUZ2tg2U"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-15T19:02:14Z",
+        "channelId": "UCfiD28dz2SjPpAUI8xoiIzA",
+        "title": "&#39;제일 기다렸던 음원&#39; I Don&#39;t Think That I Like Her - Charile Puth 찰리푸스 가사해석",
+        "description": "노래 링크 https://youtu.be/TkTyLG_Yufg 사진은 찰리푸스 페이스북에서 가져와 사용했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ND7HUZ2tg2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ND7HUZ2tg2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ND7HUZ2tg2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "러브팝 Love Pop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-15T19:02:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y-of07IvdIQo_bTfK2morkovmtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "03cDSD-ioyc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T12:42:49Z",
+        "channelId": "UCCd0-e2k5ty6HchecvTgM2w",
+        "title": "찰리 푸스 (Charile Puth) 노래 5곡 모음",
+        "description": "구독과 좋아요, 댓글 부탁드립니다~ 음악 천재 찰리푸스의 노래 5곡 모음 듣고가세요:)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03cDSD-ioyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03cDSD-ioyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03cDSD-ioyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "play song 플송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T12:42:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0vaCXctdaKBs4fgb_xWMQ_LaBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cLLfWJmFGm0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-24T15:00:49Z",
+        "channelId": "UCm7Kgy6HFB3UFuPh4ZRYYLw",
+        "title": "Charile Puth - Light Switch (With Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cLLfWJmFGm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cLLfWJmFGm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cLLfWJmFGm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Galaxy Music (CM)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-24T15:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "13ColbRHuff48NsoUsQg82FtnYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4ogUL8i8bY"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-30T07:54:09Z",
+        "channelId": "UCoT8XguR5wOXj5ScyubtM8w",
+        "title": "Charile Puth - Some Type Of Love [가사/해석/영한자막]",
+        "description": "출처:https://youtu.be/zLsbpAwpkto 구독과 좋아요는 제작자에게 큰 힘을 줍니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4ogUL8i8bY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4ogUL8i8bY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4ogUL8i8bY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sunwoo Lee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-30T07:54:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ixWTQWykY6IfPh3TID5xOG5sCc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jnDulmHkx8c"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-17T08:11:27Z",
+        "channelId": "UCWewme1MD6QScaw3A3SnpAQ",
+        "title": "찰리 틱톡 중 가장 기다리던 그 노래: Charile Puth - I don&#39;t think that I like her anymore [가사/자막/번역] (ENG/KOR)",
+        "description": "오타, 오역, 번역 지적 환영합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnDulmHkx8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnDulmHkx8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnDulmHkx8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "미티스 MITIS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-17T08:11:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QAAja1tapOr2_GX2v61FBJr1xaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2pmY2xleXiY"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-20T13:50:03Z",
+        "channelId": "UCwnB6OSSpqazuChzkwRDXsg",
+        "title": "Charile Puth - One call away(가사/해석)",
+        "description": "이 영상은 수익을 창출하지 않습니다※ 언제든 불러줘, 언제든 달려갈테니.. \"One call away\" ❤구독과 좋아요는 저에게 큰 힘이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2pmY2xleXiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2pmY2xleXiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2pmY2xleXiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Round music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-20T13:50:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UJb5H5Rlj_NpR4YHZJJF7esbGmE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dNH022l0ZbY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T15:00:33Z",
+        "channelId": "UCldwMWc-nzh1dZP_vPOj3VA",
+        "title": "Charile Puth-Dangerously",
+        "description": "dangerously #nct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNH022l0ZbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNH022l0ZbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNH022l0ZbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엔시티뽀뽀갈겨👅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-01T15:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LlFZeCmMCne96SarJQj1IaQmN4Q",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLIsoUH_Fe5kIXEOF1-NRBkNJGbRIDltmp"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-05T05:36:10Z",
+        "channelId": "UCwdt7qcHCWnZPG7yosl6Clg",
+        "title": "Charileputh♡♡",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_igPV3NPJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_igPV3NPJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_igPV3NPJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "aiyana cruz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-05T05:36:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U2gMBDfqyHKdC4NKno5hxjep1kk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JbHJIvDPJvA"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-19T10:47:52Z",
+        "channelId": "UCqSyEvt3gtfdb4xfzmKoJzw",
+        "title": "Charile Puth - Light Switch (Daehan Choi)",
+        "description": "오래간만 입니다 여러분 진짜루 이제 부터 유튜브 업로드 열심히 하겠습니다 ㅎㅎㅎ 초이는 자유에요~ 레슨문의 010 4127 3030 lOnG ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JbHJIvDPJvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JbHJIvDPJvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JbHJIvDPJvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daehan Choi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-19T10:47:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q8zhGP9sdmkRK81859PveLktmO4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aMFJOKtvkoY"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-16T08:57:13Z",
+        "channelId": "UCPbWI-Vu_BlQg7thRqvkmiw",
+        "title": "서정수, 이지영 - See you again(원곡:Charile Puth) 모던K 녹음 수업 영상",
+        "description": "서정수, 이지영 - See you again(원곡:Charile Puth) 모던K 녹음 수업 영상 오디션반 서정수, 이지영 학생이 재해석한 Charile Puth의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aMFJOKtvkoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aMFJOKtvkoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aMFJOKtvkoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "모던K 실용음악학원 MODERNK OFFICIAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-16T08:57:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y6OfRFIo37M9D2i3RlscNCT0bEM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bVPSb-B1OkI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T12:00:31Z",
+        "channelId": "UCVOoB76QkFiP2NbI5RWkMGw",
+        "title": "Charile Puth - Dangerously 🎵",
+        "description": "Charile Puth - Dangerously | 옐라이의 플레이리스트 #charlieputh #찰리푸스 #dangerously #옐라이 #yellae #playlist.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bVPSb-B1OkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bVPSb-B1OkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bVPSb-B1OkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "옐라이 Yella.E",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T12:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Erie_WChlm--XvHCQKoGENpeHUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u-pZPqHgh2A"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T13:58:03Z",
+        "channelId": "UCQd9B1O3m_bdelH1lCl6sMg",
+        "title": "Charile puth - dangerously 찰리푸스 -Dangerously",
+        "description": "찰리푸스 - Dangerously 마음에 드는 분들 댓글달아주세요 If you like Charile puth - dangerously, please write a comment Mail.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u-pZPqHgh2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u-pZPqHgh2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-pZPqHgh2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taegeon hwang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T13:58:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rrp7_Pcv028xp8fzUXBUtkQDjJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YIeTjf4_lnk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T08:00:12Z",
+        "channelId": "UC0TZb3anErR1nqp71pp4ceA",
+        "title": "Dangerously - Charile puth 한번 듣고 불러보기 #shorts #버츄얼 #버튜버 #charlieputh",
+        "description": "노래는 참 좋은데.. 처음 불러보는거라.. 부족하네요ㅠㅠ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YIeTjf4_lnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YIeTjf4_lnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIeTjf4_lnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "조별하",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-07T08:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S5uywQSW6zWQ3WoP36OiEuaebEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vsxqpifCcrU"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-13T08:05:00Z",
+        "channelId": "UCqNO22U3wr_zMWbsRksb4bw",
+        "title": "charile puth cover songs 16 [찰리푸스가 커버한 노래 16선]",
+        "description": "charile puth Cover songs [찰리푸스가 커버한 노래]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vsxqpifCcrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vsxqpifCcrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vsxqpifCcrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김병현",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-13T08:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UnceHTNBby66bcwc7sWy_dZkOW4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xj1Z6v-_Cog"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-29T10:20:21Z",
+        "channelId": "UCs1qLoUm94yMHFfeQb0NO2Q",
+        "title": "RAFFA SEE YOU AGAIN WIZ KHALIFA FT CHARILEPUTH",
+        "description": "See you again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xj1Z6v-_Cog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xj1Z6v-_Cog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xj1Z6v-_Cog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rafa Rafa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-29T10:20:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NpR_DabAhAS0Mh40oQigtmzhvT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wdedfxgGOyM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-21T13:19:17Z",
+        "channelId": "UCPwMS1ofCiJ2R9xXKOsXORQ",
+        "title": "Charile Puth And Tim Henson",
+        "description": "https://www.instagram.com/polyphia/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdedfxgGOyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdedfxgGOyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdedfxgGOyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim Henson's Shorts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-21T13:19:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7N-Ye_kxXtazea--HB8edu5n52Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wSOeX12AVdE"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-16T16:59:38Z",
+        "channelId": "UCdVq8HKMyOdJpEPaWAac9xg",
+        "title": "Charile puth. (Full concert)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wSOeX12AVdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wSOeX12AVdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSOeX12AVdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mahmoud Alabd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-16T16:59:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QDXBPfNOWOl_COYCvt3S4nnnfM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MnD5_UZ1JOA"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-14T10:56:59Z",
+        "channelId": "UCh_fa3ZVOpBsKZ15gWm9ztg",
+        "title": "Aesthetic Whatsapp Status❤️(We don&#39;t talk anymore)#shorts#aesthetic#Charileputh#Selenagomez",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MnD5_UZ1JOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MnD5_UZ1JOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnD5_UZ1JOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✌︎OKᗴY ᗪOKᗴY✌︎",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-14T10:56:59Z"
+      }
+    }
+  ]
+}

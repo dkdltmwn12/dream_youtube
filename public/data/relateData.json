@@ -1,0 +1,993 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "NPTNHOKUGhkTSxoYfoIFD9gwuYA",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+      "totalResults": 141,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qHOHo7TRuHgwuakMbzC7fFaVPv0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3AtDnEC4zak"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-01T17:59:36Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]",
+          "description": "Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]\nFrom Charlie's debut album Nine Track Mind!\nDownload/Stream: https://Atlantic.lnk.to/NineTrackMindID \n\nExclusive Nine Track Mind Bundles Available Here: http://smarturl.it/NTMBundlesYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nDirector: Phil Pinto\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #WeDontTalkAnymore #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3AtDnEC4zak/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3AtDnEC4zak/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3AtDnEC4zak/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3AtDnEC4zak/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3AtDnEC4zak/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-08-01T17:59:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "INr-8k9vEQrJ9UsANAxpNC5YXdw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uQiF1yOnzDg"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-10T17:13:37Z",
+          "channelId": "UCGqoKUzBhSu87BOtqWapGFQ",
+          "title": "dhruv - double take (Official Audio)",
+          "description": "\"double take\" is available on all streaming platforms\n \n dhruv on instagram: https://www.instagram.com/dhrvie/\n dhruv on twitter: https://twitter.com/dhrvie",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uQiF1yOnzDg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uQiF1yOnzDg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uQiF1yOnzDg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uQiF1yOnzDg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uQiF1yOnzDg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "dhruv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-10T17:13:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7SJj2N4l6kvg2ZztYtbvwFNhBts",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lByHhsq8pqo"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T10:19:43Z",
+          "channelId": "UCvgqfdbbyCgojoQ3OQWpyLw",
+          "title": "Attention by Charlie Puth - Lyrics",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lByHhsq8pqo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lByHhsq8pqo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lByHhsq8pqo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lByHhsq8pqo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "MEIKU'S PLAYLIST",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T10:19:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "chXwQYP_Q-Y-8JgOFBFULtv7ox4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6gTmyhRM6k0"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-12T22:48:44Z",
+          "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+          "title": "Charlie Puth Creates an Original Beat on the Spot With a Mug and a Spoon | The Tonight Show",
+          "description": "Charlie Puth stops by The Tonight Show and makes a song using a Tonight Show mug and a spoon.\n\nThe Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: https://pck.tv/3d7lcDy\n \nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\n \nGet more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show\n \nJIMMY FALLON ON SOCIAL\nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\nFollow Jimmy: https://www.instagram.com/jimmyfallon/\n \nTHE TONIGHT SHOW ON SOCIAL\nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nFollow The Tonight Show: https://www.instagram.com/fallontonight/\nTonight Show Tumblr: http://fallontonight.tumblr.com\n \nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n \nGET MORE NBC\nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Instagram: http://instagram.com/nbc\nNBC Tumblr: http://nbctv.tumblr.com/\n \nCharlie Puth Creates an Original Beat on the Spot With a Mug and a Spoon | The Tonight Show\nhttp://www.youtube.com/fallontonight\n\n#FallonTonight \n#CharliePuth\n#JimmyFallon",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6gTmyhRM6k0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6gTmyhRM6k0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6gTmyhRM6k0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6gTmyhRM6k0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6gTmyhRM6k0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-12T22:48:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gGayF_jMehvebzd9zkbL7slh1E8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nfs8NYg7yQM"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-24T16:34:06Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - Attention [Official Video]",
+          "description": "Charlie Puth - Attention [Official Video]\nFrom Charlie's album Voicenotes!\nDownload/Stream: https://Atlantic.lnk.to/VoicenotesID\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nVideo Directed by Emil Nava\n\nWritten By: Charlie Puth and Jacob Kasher\nProduced By: Charlie Puth\nVocal Production: Charlie Puth\nInstruments: Korg Triton Studio, Juno 60, Omnisphere, Trillian for the Bass, Rhodes 77, Yamaha DX7, Pro Tools I2, Fender Stratocaster, Martin HD-28 Acoustic\nMixed By: Manny Marroquin & Charlie Puth at Larrabee Sound Studios\nRecorded At: Home Studio of Charlie Puth & Tour Bus of Charlie Puth\nMastered By: Dave Kutch at the Mastering Palace\n\nStore - http://smarturl.it/CPAttentionMerchYT\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #Attention #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-24T16:34:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q1OdjRCsTs8gWmYe5yBkeC6h-8Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4sIPHnnMZSE"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-07T07:20:40Z",
+          "channelId": "UCM8Ywtsv6ovCizuuV1V432w",
+          "title": "Charlie Puth Best Songs - Charlie Puth Full Album – Charlie Puth Top Hits",
+          "description": "🔥 Please subscribe to \"POP MUSIC CHANNEL\" channel : \nhttps://by.com.vn/9z0PG\nIf this music makes you happy , make sure to Like , Please share this Mix on social pages (Facebook, WhatsApp, Reddit, Twitter,...) so more people can listen together!  \n✓ Thank you for your support, and wish you a relaxed listening !\n#POPMUSIC #POPMUSICCHANNEL #POPSONGS",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4sIPHnnMZSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4sIPHnnMZSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4sIPHnnMZSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4sIPHnnMZSE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4sIPHnnMZSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "POP MUSIC CHANNEL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-07T07:20:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eNf-mJPpqjfM7T39TqFAgxffo9g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a7GITgqwDVg"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-24T04:45:50Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - Left And Right (feat. Jung Kook of BTS) [Official Video]",
+          "description": "Charlie Puth - Left And Right (feat. Jung Kook of BTS) out now!\nDownload/stream: https://charlieputh.lnk.to/LeftAndRightID\n\nNew album 'CHARLIE' out October 7! Pre-save /pre-order: https://charlieputh.lnk.to/CHARLIEID\nListen to \"Light Switch\": https://charlieputh.lnk.to/LightSwitchID\nListen to \"That's Hilarious\": https://charlieputh.lnk.to/ThatsHilariousID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribe\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\nhttps://my.community.com/charlieputh\n\nFollow Jung Kook\nhttps://www.instagram.com/jungkook.97\n\nLyrics: \nMemories follow me left and right \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nwhatcha gon do now \n\never since the da day y-you went away\nno I don't know how \nhow to erase your body from out my brain \nwhatcha gon do now\nmaybe I should just focus on me instead\nBut all I think about \nare the nights we were tangled up in your bed\n\noh no (oh no)\noh no (oh no)\nyou’re going round in circles got you stuck up in my head (yeah)\n\nMemories follow me left and right \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nyour love stays with me day and night \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nwhatcha gon do now\n\never since the da da day y-you went away \nsomeone tell me how \nhow much more do I gotta drink for the pain \nwhatcha gon do now\nyou did things to me that I just can't forget \nnow all I think about \nare the nights we were tangled up in your bed \noh no (oh no)\noh no (oh no)\nyou're going round in circles got ya stuck up in my head \n\nMemories follow me left and right \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nyour love stays with me day and night \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nwhatcha gon do now\n\ndid ya know you’re the one that got away\nand even now baby i'm still not ok \ndid ya know that my dreams they're are the same \neverytime I close my eyes \n\nMemories follow me left and right \nI can feel you over here I can feel you over here \nyou take up every corner of my mind \nwhatcha gon do now\nyour love stays with me day and night \nI can feel you over here i can feel you over here \nyou take up every corner of my mind \nwhatcha gon do now\n\nI can feel you over here I can feel you over here\nyou take up every corner of my mind \nwhatcha gon do now\n\nCharlie Puth has proven to be one of industry’s most consistent hitmakers and sought-after collaborators. Puth has amassed eight multi-platinum singles, four GRAMMY nominations, three Billboard Music Awards, a Critic’s Choice Award, and a Golden Globe nomination. His 2018 GRAMMY-nominated LP, Voicenotes, was RIAA Certified Gold only four days after its release and has logged over 6 billion streams worldwide. Puth’s 2020 collaboration with Gabby Barrett on their “I Hope” Remix earned him his fourth top 10 track on the Billboard Hot 100, hit number one on the Billboard “Adult Pop Songs” chart, and won a 2021 Billboard Music Award for “Top Collaboration.” Puth also co-wrote and produced The Kid Laroi and Justin Bieber’s record-breaking single, “Stay,” which quickly become one of the biggest songs of 2021 and holds the title for the longest-reigning No. 1 on the Billboard Global 200 chart and the first to lead it for double-digits - spending a total of eleven weeks at the top of the chart.\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #JungKook #LeftAndRight #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a7GITgqwDVg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a7GITgqwDVg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a7GITgqwDVg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a7GITgqwDVg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a7GITgqwDVg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-24T04:45:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-bz0gs30M6NsBhKz91xakDrMCv4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Il-an3K9pjg"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-08T10:18:38Z",
+          "channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
+          "title": "Anne-Marie - 2002 [Official Video]",
+          "description": "The official music video for Anne-Marie - 2002. \nStream: https://apple.co/30w8bd9\n\n'Therapy' the new album is out on July 23rd. Pre-order now: https://lnk.to/AM-Therapy\n\nTaken from Anne-Marie's debut studio album Speak Your Mind released in 2018, which featured the singles Alarm, Ciao Adios, Heavy, Then, Friends 2002 & Perfect To Me.\n\nSubscribe to the Anne-Marie's channel for all the best and latest official music videos, behind the scenes and live performances here - http://bit.ly/1FciNcA\n\nListen to more from the album Speak Your Mind: \nhttps://www.youtube.com/playlist?list=OLAK5uy_lluGR30cpjJE51wo0AaYaucx7SHl-Yxp8\n\nGet Speak Your Mind the debut album http://ad.gt/speakyourmind\n\nSee more official videos from Anne-Marie here: \nhttps://www.youtube.com/watch?v=qjQjxpnwVZw&list=PLgzgA64MLAflH_RyIf8Q3CDtIVaXUuwS_\n\nFollow Anne-Marie:\nOfficial Website- http://iamannemarie.com\nFacebook- http://www.facebook.com/iamannemarie\nTwitter- http://twitter.com/AnneMarie\nInstagram- https://instagram.com/annemarie\n\nLyrics: \n\nI will always remember\nThe day you kissed my lips\nLight as a feather\nAnd it went just like this\nNo, it's never been better\nThan the summer of 2002 (ooh)\nUh, we were only 11\nBut acting like grown-ups\nLike we are in the present\nDrinking from plastic cups\nSinging, \"Love is forever and ever\"\nWell, I guess that was true\n\nDancing on the hood in the middle of the woods\nOn an old Mustang, where we sang\nSongs with all our childhood friends\nAnd it went like this, say\n\nI got 99 problems singing bye, bye, bye\nHold up, if you wanna go and take a ride with me\nBetter hit me, baby, one more time, uh\nPaint a picture for you and me\nOn the days when we were young, uh\nSinging at the top of both our lungs\n\nNow we're under the covers\nFast forward to eighteen\nWe are more than lovers\nYeah, we are all we need\nWhen we're holding each other\nI'm taken back to 2002 (ooh)\nYeah\n\nDancing on the hood in the middle of the woods\nOn an old Mustang, where we sang\nSongs with all our childhood friends\nAnd it went like this, say\n\nI got 99 problems singing bye, bye, bye\nHold up, if you wanna go and take a ride with me\nBetter hit me, baby, one more time, uh\nPaint a picture for you and me\nOn the days when we were young, uh\nSinging at the top of both our lungs\nOn the day we fell in love\nOoh ooh, ooh ooh\nOn the day we fell in love\nOoh ooh, ooh ooh\n\nDancing on the hood in the middle of the woods\nOn an old Mustang, where we sang\nSongs with all our childhood friends\nOh, now\n\nI got 99 problems singing bye, bye, bye\nHold up, if you wanna go and take a ride with me\nBetter hit me, baby, one more time\nPaint a picture for you and me\nOn the days when we were young, uh\nSinging at the top of both our lungs\nOn the day we fell in love\nOoh ooh, ooh ooh\nOn the day we fell in love\nOoh ooh, ooh ooh\nOn the day we fell in love\nOoh ooh, ooh ooh\nOn the day we fell in love\nOoh ooh, ooh ooh\nOn the day we fell in love, love, love\n\nAbout Anne-Marie:\nAnne-Marie has proved to be one of the UK’s most exciting and successful British breakthrough popstars of recent years. A former 3x world karate champion and West End child star-turned 9x BRIT Award nominee, A-M’s rise has been nothing short of meteoric. In 2018 Anne-Marie released her debut album, ‘Speak Your Mind’ which featured the hit singles 'Alarm', 'Ciao Adios', 'Heavy', 'Friends', '2002' and 'Perfect to Me'. She subsequently ended that year as as the UK’s biggest-selling debut artist, selling out headline shows and playing stadium dates supporting long-time friend and champion Ed Sheeran in the process.\n\nShe has also sang on and co-written many other hits such as Birthday, Rockabye, Don't Leave Me Alone,  To Be Young, f*ck, i'm lonely and Don't Play, collaborating with the likes of Clean Bandit, Marshmello, David Guetta, Lauv, Rudimental, Doja Cat and KSI, as well as starring on The Greatest Showman: Reimagined soundtrack performing Rewrite the stars alongside James Arthur.\n\n#AnneMarie #2002 #SpeakYourMind",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Il-an3K9pjg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Il-an3K9pjg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Il-an3K9pjg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Il-an3K9pjg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Anne-Marie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-08T10:18:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "90m3yvdmZqPiQITxMW-HygPOzJ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WFsAon_TWPQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-19T22:31:12Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - Light Switch [Official Music Video]",
+          "description": "Light Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nText: (323) 524-9978\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\nhttps://my.community.com/charlieputh\n\nLyrics:\nYeah, \nWhy you callin’ at 11:30\nWhen you only wanna do me dirty \nBut I hit right back ‘cause you got that that, yeah \n\nWhy you always wanna act like lovers \nBut you never wanna be each other’s \nI say don’t look back but I go right back and\n\nAll the sudden I’m hypnotized \nYou’re the one that I can’t deny \nEvery time that I say I’m gonna walk away \n\nYou turn me on like a light switch \nWhen your moving your body around and around\nNow I don’t wanna fight this (No) \nYou know how to just make me want you \nturn me on like a light switch \nWhen your moving your body around and around\nYou got me in a tight grip (Yeah)\nYou know how to just make me want you, baby \n\nDo you love it when you keep me guessing?\nWhen you leave and then you leave me stressing?\nBut I cant stay mad when you walk like that, no\n\nWhy you always wanna act like lovers \nBut you never wanna be each other’s\nI say don’t look back but I go right back and\n\nAll a sudden I’m hypnotized \nYou’re the one that I can’t deny \nEvery time that I say I’m gonna walk away \n\nYou turn me on like a light switch \nWhen your movin’ your body around and around\nNo, I don’t wanna fight this (No) \nYou know how to just make me want you \nYou turn me on like a light switch (Switch) \nWhen your movin’ your body around and around\nYou got me in a tight grip (Grip)\nYou know how to just make me want you, baby \n\nC’mon, C’mon, C’mon, C’mon, C’mon and show me how you do (Do)\nYou want, you want, you want, you want, you want me to keep wantin’ you (wantin’ you girl)\nC’mon, C’mon, C’mon, C’mon, C’mon and show me how you do (How you do)\nYou want, you want, you want, you want, you want me to keep wantin’ you\n\nYou turn me on like a light switch \nWhen your movin’ your body around and around\nNo, I don’t wanna fight this \nYou know how to just make me want to \nYou turn me on like a light switch \nWhen your movin’ your body around and around\nYou got me in a tight grip \nYou know how to just make me want you, baby \n\nC’mon, C’mon, C’mon, C’mon, C’mon and show me how you do \nYou want, you want, you want, you want, you want me to keep wantin’ you \nC’mon, C’mon, C’mon, C’mon, C’mon and show me how you do \nYou want, you want, you want, you want, you want me to keep wantin’ you\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #LightSwitch #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WFsAon_TWPQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WFsAon_TWPQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WFsAon_TWPQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WFsAon_TWPQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WFsAon_TWPQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-19T22:31:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ia2lpzGT0NYW40zWqhymzr_GAeQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-qNyKRx5hFI"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-03T03:25:13Z",
+          "channelId": "UC2macIFKt7ffCgmKtJJ2BSA",
+          "title": "Charlie Puth, Selena Gomez - We don't talk anymore (Lyrics) | Coi Leray,... (mix)",
+          "description": "Charlie Puth, Selena Gomez - We don't talk anymore (Lyrics) | Coi Leray,...(mix)\n\n Spotify playlist: https://lnk.to/spotifypop.ds\n\n🎤 Lyrics we don't talk anymore:\nWe don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\nI just heard you found the one you've been looking\nYou've been looking for\nI wish I would have known that wasn't me\n'Cause even after all this time, I still wonder\nWhy I can't move on\nJust the way you did so easily\nDon't wanna know\nKind of dress you're wearing tonight\nIf he's holding onto you so tight\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOh, it's such a shame\nThat we don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\nI just hope you're lying next to somebody\nWho knows how to love you like me\nThere must be a good reason that you're gone\nEvery now and then I think you might want me to\nCome show up at your door\nBut I'm just too afraid that I'll be wrong\nDon't wanna know\nIf you're looking into her eyes\nIf she's holding onto you so tight\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOh, it's such a shame\nThat we don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\nLike we used to do\nDon't wanna know\nKind of dress you're wearing tonight\nIf he's giving it to you just right\nThe way I did before\nI overdosed\nShould've known your love was a game\nNow I can't get you out of my brain\nOh, it's such a shame\nThat we don't talk anymore\nWe don't talk anymore\nWe don't talk anymore\nLike we used to do\nWe don't love anymore\nWhat was all of it for?\nOh, we don't talk anymore\nLike we used to do\nWe don't talk anymore (don't wanna know)\nKind of dress you're wearing tonight (oh)\nIf he's holding onto you so tight (oh)\nThe way I did before\nWe don't talk anymore (I overdosed)\nShould've known your love was a game (oh)\nNow I can't get you out of my brain (whoa)\nOh, it's such a shame\nThat we don't talk anymore\n\n#charlieputh #selenagomez #wedontalkanymore #lyrics #popsongs #popmusic #trendingsongs #blueberry",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-qNyKRx5hFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-qNyKRx5hFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-qNyKRx5hFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-qNyKRx5hFI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-qNyKRx5hFI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Blue berry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-03T03:25:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jqr9wtSUeh_K0WkkHJcNh0oaDIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Nq3x1AkwgpY"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-02T15:12:02Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - That's Hilarious [Official Video]",
+          "description": "New album 'CHARLIE' out October 7! Pre-save /pre-order: https://charlieputh.lnk.to/CHARLIEID\nListen to \"That's Hilarious\": https://charlieputh.lnk.to/ThatsHilariousID\nListen to \"Light Switch\": https://charlieputh.lnk.to/LightSwitchID\n\nText: (323) 524-9978\n\nDirected by Matthew Daniel Siskin\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\nhttps://my.community.com/charlieputh\n\nLyrics: \nLook how all tables,\nLook how all the tables have turned,\nGuess you’re finally realizing how bad you messed it up\nGirl you’re only making,\nGirl you’re only making it worse,\nWhen you call like you always do when you want someone\n\nYou took away a year,\nof my fucking life and I can’t get it back no more\nSo when I see those tears,\nComing out your eyes I hope it’s me they're for\n\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious\nThat’s hilarious\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious\nThat’s hilarious\n \nNow you put the blame in,\nNow you put the blame in reverse,\nTryina make me feel guilty for everything you’ve done\nYou’re another lesson,\nYou’re just another lesson I learned\nDon’t give your heart to a girl who still got a broken one\n\nYou took away a year,\nof my fucking life & I can’t get it back no more\nSo when I see those tears,\nComing out your eyes I hope it’s me they’re for \n\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious\nThat’s hilarious\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious\nThat’s hilarious\nYou didn’t love when you had me\nBut now you need me so badly\nYou can’t be serious (you can’t be serious)\nThat’s hilarious (that’s hilarious)\nThinking I would still want you\nAfter the things you put me through\nYea You’re delirious (delirious)\nThat’s hilarious (that’s hilarious)\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #ThatsHilarious",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nq3x1AkwgpY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-02T15:12:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "64S98BgayffkpLHyiwwhqylMVvw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i_yLpCLMaKk"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-18T19:28:01Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth & Selena Gomez - We Don't Talk Anymore [Official Live Performance]",
+          "description": "Charlie Puth & Selena Gomez - We Don't Talk Anymore [Official Live Performance]\n\nCharlie Puth joins Selena Gomez during her REVIVAL Tour for the first official live performance of We Don't Talk Anymore.\n\nGet \"We Don't Talk Anymore\" on Charlie's debut album Nine Track Mind!\nDownload/Stream: https://Atlantic.lnk.to/NineTrackMindID \n\nExclusive Nine Track Mind Bundles Available Here: http://smarturl.it/NTMBundlesYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nDirected by DJ Brawner\nProduced by Anthem Films\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #WeDontTalkAnymore #LivePerformance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i_yLpCLMaKk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i_yLpCLMaKk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i_yLpCLMaKk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i_yLpCLMaKk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i_yLpCLMaKk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-18T19:28:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PPG9CH8hNIKH0dE8ehIfQvKLaR8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RgKAFK5djSk"
+        },
+        "snippet": {
+          "publishedAt": "2015-04-05T22:30:54Z",
+          "channelId": "UCLxOm-UQ1gtyQgfz8Rn34iQ",
+          "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+          "description": "Download the new Furious 7 Soundtrack Deluxe Version on iTunes here: https://apple.co/3paGCzN\n\nSee Wiz on tour http://wizkhalifa.com/tour\n\nTag ‪#‎SeeYouAgain‬ on Shazam and get an exclusive behind the scenes look at the music video!\n\nGet official merch here: http://atlr.ec/OfficialWKMerchYT\n\nStream Furious 7 on Spotify: http://smarturl.it/streamFurious7\n\nListen on Apple Music: https://apple.co/3r503MR\n\nDirected by: Marc Klasfeld\n\nFollow Wiz:\n►Subscribe to channel: http://goo.gl/y3Bnno\n►Twitter - https://twitter.com/wizkhalifa\n►Facebook - https://facebook.com/wizkhalifa\n►Instagram - https://instagram.com/mistercap\n►Soundcloud - https://soundcloud.com/wizkhalifa\n►Website: http://wizkhalifa.com\n►Taylor Gang: http://taylorgang.com\n\nFollow Charlie Puth:\n►Subscribe to channel: https://www.youtube.com/charlieputh\n►Twitter - https://twitter.com/charlieputh\n►Facebook - https://www.facebook.com/charlieputh\n►Instagram - http://instagram.com/charlieputh\n►Soundcloud - https://soundcloud.com/charlieputh\n►Website: http://charlieputh.com/\n\nWiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RgKAFK5djSk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RgKAFK5djSk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RgKAFK5djSk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RgKAFK5djSk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RgKAFK5djSk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Wiz Khalifa Music",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-04-05T22:30:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "06pk9AW1VOAuP_tt1yYsFLss6tY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CwfoyVa980U"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-18T23:31:13Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - \"How Long\" [Official Video]",
+          "description": "Charlie Puth - \"How Long\" [Official Video]\nFrom Charlie's album Voicenotes!\nDownload/Stream: https://Atlantic.lnk.to/VoicenotesID \nDownload/Stream \"How Long\": https://Atlantic.lnk.to/HowLongID\n\nExclusive VoiceNotes Merchandise Bundles Available Here: http://smarturl.it/VoiceNotesD2CYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #HowLong #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CwfoyVa980U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CwfoyVa980U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CwfoyVa980U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CwfoyVa980U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-18T23:31:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vEKkmVQFXqkdtXS0iQjUIT4WtEo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-TbOvhKwch8"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-07T11:52:17Z",
+          "channelId": "UCqqO-fT-Fe_RsBvwXHEUYwQ",
+          "title": "Charlie Puth - Charlie (full album)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-TbOvhKwch8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-TbOvhKwch8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-TbOvhKwch8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-TbOvhKwch8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-TbOvhKwch8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Marshinobi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-07T11:52:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vW-NSFmxm-lV9XNarRWFi7CDLzg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "igNVdlXhKcI"
+        },
+        "snippet": {
+          "publishedAt": "2015-03-31T21:43:57Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]",
+          "description": "Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video]\nFrom Charlie's debut album Nine Track Mind!\nDownload/Stream: https://Atlantic.lnk.to/NineTrackMindID \n\nExclusive Nine Track Mind Bundles Available Here: http://smarturl.it/NTMBundlesYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #MarvinGaye #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/igNVdlXhKcI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/igNVdlXhKcI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/igNVdlXhKcI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/igNVdlXhKcI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-03-31T21:43:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hlujpejUsDRO2B7bP3x52RxBsBY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eycM_QkvZlQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-08T02:04:34Z",
+          "channelId": "UC7d8vfqgCms2zlDWpGRh0eg",
+          "title": "Adele - Easy One Me (lyrics), Olivia Rodrigo, Taylor Swift, Charlie Puth -(Mix)",
+          "description": "🎤 Lyrics: Adele - Easy On Me\n \nThere ain’t no gold\nIn this river\nThat I’ve been washing my hands in forever\nI know there is hope\nIn these waters\nBut I can’t bring myself to swim \nWhen I am drowning \nIn this silence baby let me in\n \nGo easy on me baby\nI was still a child\nDidn’t get the chance to \nFeel the world around me\nI had no time to choose\nWhat I chose to do\nSo go easy on me\n \nThere ain’t no room \nFor things to change\nWhen we are both so deeply \nStuck in our ways\nYou can’t deny how hard I have tried\nI changed who I was\nTo put you both first\nBut now I give up \n \nI had good intentions\nAnd the highest hopes\nBut I know right now\nIt probably doesn’t even show",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eycM_QkvZlQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eycM_QkvZlQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eycM_QkvZlQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eycM_QkvZlQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eycM_QkvZlQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shark Lyrics",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-08T02:04:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OwBdvAfl-CfPBu_kD7MDNgxFR4c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cRi-x2r88no"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-29T15:02:32Z",
+          "channelId": "UCilqV3GecszUjixKZWsuZ-w",
+          "title": "Jamie Miller - Here's Your Perfect (Official Music Video)",
+          "description": "Download/stream 'Here's Your Perfect': https://JamieMiller.lnk.to/HeresYourPerfectID\n\nMy debut EP 'Broken Memories' is out now! Listen: https://JamieMiller.lnk.to/BrokenMemoriesID\nListen to \"Last Call\": https://JamieMiller.lnk.to/LastCallID\n\nSubscribe to Jamie's channel: https://JamieMiller.lnk.to/SubscribeID\n\nJoin Jamie's mailing list: https://www.jamiemillermusic.com/\n\nLyrics: \nI remember the day, even wrote down the date, that I fell for you\nNow it’s crossed out in red but I still can’t forget if I wanted to\nAnd it drives me insane, think I’m hearing your name everywhere I go\nBut it’s all in my head\nIt’s just all in my head\n\nBut you won’t see me break, call you up in three days\nSend you a bouquet, sayin’ it’s a mistake\nDrink my troubles away, one more glass of champagne\nAnd you know\n\nI’m the first to say that I’m not perfect\nAnd you’re the first to say you want the best thing\nBut now I know a perfect way to let you go\nGive my last hello, hope it’s worth it\nHere’s your perfect\n\nMy best was just fine, \nI tried, I tried to be great for you\nI’m flawed by design and you love to remind me no matter what I do\n\nBut you won’t see me break, call you up in three days, oh\nSend you a bouquet, sayin’ it’s a mistake\nDrink my troubles away, one more glass of champagne\nAnd you know\n\nI’m the first to say that I’m not perfect\nAnd you’re the first to say you want the best thing\nBut now I know a perfect way to let you go\nGive my last hello, hope it’s worth it\n\nI’m the first to say that I’m not perfect\nAnd you’re the first to say you want the best thing\nBut now I know a perfect way to let you go\nGive my last hello, hope it’s worth it\n\nSay yeah\n\nBut now I know a perfect way to let you go\nGive my last hello, hope it’s worth it\nHere’s your perfect\n\nFollow Jamie Miller\nhttp://www.facebook.com/jamiemillmusic\nhttp://www.twitter.com/jamiemillmusic\nhttps://www.instagram.com/jamiemillmusic\nhttps://www.tiktok.com/@jamiemillmusic\n\n#JamieMiller #HeresYourPerfect #OfficialVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cRi-x2r88no/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cRi-x2r88no/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cRi-x2r88no/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cRi-x2r88no/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cRi-x2r88no/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jamie Miller",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-29T15:02:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IVK7GJYHyEGtENvvYxiX1vXiLSE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a7fzkqLozwA"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-19T04:06:10Z",
+          "channelId": "UCfLdIEPs1tYj4ieEdJnyNyw",
+          "title": "Lauv - I Like Me Better [Official Audio]",
+          "description": "Lauv's debut album, ~how i'm feeling~ is available now: http://lauv.lnk.to/howimfeelingYD\n\nI met you when I was 18. is a collection of songs, a story. about making a big move, falling in love for the first time, and figuring out your own identity while being with someone else. listen to the entire playlist at: http://lauv.lnk.to/imywiw18\n\n\"I Like Me Better\" Available Now: http://smarturl.it/lauv_ilmb\nWatch the Official Video: http://lauv.lnk.to/ilmb_video\n\nPre-Save on Spotify: http://smarturl.it/lauv_subscribe\n\nVideo animation by Fancy Pants Group - http://www.fancypantsgroup.com\n\nSubscribe to Lauv’s channel: https://lauv.lnk.to/subscribe\n\nFor official Lauv merch visit https://shop.lauvsongs.com/\n\nFollow Lauv:\nhttp://lauvsongs.com\nhttp://facebook.com/lauvsongs\nhttp://twitter.com/lauvsongs\nhttp://instagram.com/lauvsongs\nhttp://my.community.com/lauv\n\nTo be young and in love in New York City\nTo not know who I am but still know that I'm good long as you're here with me\nTo be drunk and in love in New York City\nMidnight into morning coffee\nBurning through the hours talking\n\nDamn...\n\nI like me better when I'm with you\nI like me better when I'm with you\nI knew from the first time, I'd stay for a long time cause\nI like me better when I'm with you\n\nI don't know what it is but I got that feeling\nWaking up in this bed next to you swear the room\nYeah it got no ceiling\nIf we lay, let the day just pass us by\nI might get to too much talking\nI might have to tell you something...\n\nDamn…\n\nI like me better when I'm with you\nI like me better when I'm with you\nI knew from the first time, I'd stay for a long time cause\nI like me better when I'm with you\n\nStay awhile stay awhile\nStay here with me\nStay awhile stay awhile, oh\nStay awhile stay awhile\nStay here with me\nLay here with me\n\nI like me better when I'm with you\n(yes I do, yes I do, babe)\nI like me better when I'm with you\n(oooh noooooo)\nI knew from the first time, I'd stay for a long time cause\nI like me better when I'm with you\n\n(I like me, I like me)\n(Look who you made me, made me, oh nooooo)\nBetter when\nI like me better when i'm with you\n\nHow I'm Feeling: https://lauv.lnk.to/HIFplaylist\nOfficial Videos: https://lauv.lnk.to/OMVplaylist\nWithout You: https://lauv.lnk.to/withoutyouplaylist\n\n#Lauv #ILikeMeBetter #OfficialAudio",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a7fzkqLozwA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a7fzkqLozwA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a7fzkqLozwA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a7fzkqLozwA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a7fzkqLozwA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lauv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-19T04:06:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xa5mcyV54aYZ5oiN1ZH_QdSiBGo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QGKVwWvqSl0"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-01T20:20:56Z",
+          "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+          "title": "Charlie Puth - Cheating on You (Lyrics)",
+          "description": "» Download Charlie Puth - Cheating on You (Lyrics): https://charlieputh.lnk.to/CheatingOnYouID\n🎵 Spotify Playlist: https://lnk.to/syrevibesS\n⚡ Instagram: https://lnk.to/syrevibesIG\n\n» Support SyrebralVibes:\nhttps://open.spotify.com/user/syrebralvibes\nhttps://www.instagram.com/syrevibes\n\n» Support Charlie Puth:\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://instagram.com/charlieputh\n\n» Side channels:\nFutureHype - https://lnk.to/FutureHype\nLatinHype - https://lnk.to/LatinHype\n\nBuisness Inquires: erik@syrebralvibes.com\n\n💖Comment \"i love u\" if you're reading this\n\n#CharliePuth #CheatingOnYou #SyrebralVibes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QGKVwWvqSl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QGKVwWvqSl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QGKVwWvqSl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QGKVwWvqSl0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QGKVwWvqSl0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SyrebralVibes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-01T20:20:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oRZHP9pzQNldFCBZ8r4Vydp8Pv4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BxuY9FET9Y4"
+        },
+        "snippet": {
+          "publishedAt": "2015-09-14T16:38:51Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - One Call Away [Official Video]",
+          "description": "Charlie Puth - One Call Away [Official Video]\nFrom Charlie's debut album Nine Track Mind!\nDownload/Stream: https://Atlantic.lnk.to/NineTrackMindID \n\nExclusive Nine Track Mind Bundles Available Here: http://smarturl.it/NTMBundlesYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #OneCallAway #MusicVideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-09-14T16:38:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AyLQB50_E_FtDeJ8Li7roHp1WSY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9voN0gkdlS4"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-15T19:20:49Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - I Don't Think That I Like Her (Official Audio)",
+          "description": "New album 'CHARLIE' out October 7! Pre-save /pre-order: https://charlieputh.lnk.to/CHARLIEID\nListen to \"I Don't Think That I Like Her\": https://charlieputh.lnk.to/IDontThinkThatILikeHerID\n\nListen to \"Left And Right (feat. Jung Kook of BTS)\": https://charlieputh.lnk.to/LeftAndRightID\nListen to “Smells Like Me”: https://charlieputh.lnk.to/SmellsLikeMeID\nListen to \"Light Switch\": https://charlieputh.lnk.to/LightSwitchID\nListen to \"That's Hilarious\": https://charlieputh.lnk.to/ThatsHilariousID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribe\n\nLyrics:\nGet her name and get her number\nFind out all of the things that we have in common\nNever all the differences, oh yeah\nMeet her parents, meet her brother\nThen she starts sleeping over the crib on weekends\nLike a real relationship, oh no\nFor me the stars are aligning\nBut for her its bad timin’ so she just can’t be mine\n\nI don't think that I like her anymore cause they're all the same\nAll they want to do is break my heart, my heart\nI don't think that I like her anymore cause they're all the same\nThey just want to see me fall apart, apart \n\nSo I hook up on a rebound \nAnd I say that I'm gonna be single for life \nBut she's so pretty and nice\nSo I make just one exception \nbut I find out eventually I’m not her type\nMaybe that’s the reason why \n\nFor me the stars are aligning, but for her its bad timin’ \nSo she just can’t be mine\n\nI don't think that I like her anymore cause they're all the same\nAll they want to do is break my heart, my heart\nI don't think that I like her anymore cause they're all the same\nThey just want to see me fall apart, apart \n\nI'm trying not to be bitter but dammit I miss her\nCause she's one of a kind (one of a kind)\nFor me the stars are aligning but for her it’s bad timin’ \nSo she just can’t be mine\n\nI don't think that I like her anymore cause they're all the same\nAll they want to do is break my heart, my heart\nI don't think that I like her anymore cause they're all the same\nThey just want to see me fall apart, apart \n\nFalling, falling, falling, fall apart\nI don't think that I like her anymore cause they're all the same\nThey just want to see me fall apart, apart \n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\nhttps://my.community.com/charlieputh\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #IDontThinkThatILikeHer #CHARLIE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9voN0gkdlS4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9voN0gkdlS4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9voN0gkdlS4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9voN0gkdlS4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9voN0gkdlS4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-15T19:20:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P2O-x5Sg396e50c5PT9huVWNYi4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C3DlM19x4RQ"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T23:15:08Z",
+          "channelId": "UCgJMQU7JOIoP-YnrhH_P-bA",
+          "title": "8 Letters - Why Don't We [Official Music Video]",
+          "description": "Debut album '8 Letters' out now: http://whydntwe.co/8LettersYT\n\nFOLLOW US \nhttps://twitter.com/whydontwemusic\nhttps://www.instagram.com/whydontwemusic\nhttps://www.facebook.com/whydontwemusic\nhttps://whydontwe.lnk.to/TikTok\n\nTEXT US: +1 (323) 348-1663",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C3DlM19x4RQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C3DlM19x4RQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C3DlM19x4RQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C3DlM19x4RQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C3DlM19x4RQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Why Don't We",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T23:15:08Z"
+        }
+      }
+    ]
+  }

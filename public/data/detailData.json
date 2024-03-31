@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "xyE_I8u8Oe9vzSVIEbvos3bCGeY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "yVzvAzIo50-diVC8476Ux-j3W6o",
+      "id": "UCwppdrjsBPAZg5_cUwQjfMQ",
+      "snippet": {
+        "title": "Charlie Puth",
+        "description": "",
+        "customUrl": "@charlieputh",
+        "publishedAt": "2009-09-09T21:32:32Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/9DTziUXmosxUCZUqErlwiIBfPOCcDSm6sU1scc7rkCWUJW7kvu6rTjOx5SiR3Ze4E2V0oE4OCg=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/9DTziUXmosxUCZUqErlwiIBfPOCcDSm6sU1scc7rkCWUJW7kvu6rTjOx5SiR3Ze4E2V0oE4OCg=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/9DTziUXmosxUCZUqErlwiIBfPOCcDSm6sU1scc7rkCWUJW7kvu6rTjOx5SiR3Ze4E2V0oE4OCg=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Charlie Puth",
+          "description": ""
+        },
+        "country": "US"
+      }
+    }
+  ]
+}
